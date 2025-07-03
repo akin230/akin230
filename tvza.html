@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>เว็บดูทีวี - Premium Channel Grid</title>
+<style>
+  body {
+    margin: 0;
+    background: #121212;
+    color: #eee;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  header {
+    background-color: #111;
+    padding: 12px 24px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.7);
+    gap: 16px;
+  }
+  header a.logo-link img {
+    height: 48px;
+    filter: drop-shadow(0 0 3px #0f62fe);
+    transition: transform 0.3s ease;
+  }
+  header a.logo-link:hover img {
+    transform: scale(1.1);
+  }
+
+  .running-text-container {
+    flex: 1;
+    overflow: hidden;
+    white-space: nowrap;
+    position: relative;
+    height: 48px;
+  }
+  .running-text {
+  	
+    display: inline-block;
+    padding-left: 100%;
+    animation: marquee 15s linear infinite;
+    font-size: 20px;
+    font-weight: 600;
+    color: #ffffff;
+    user-select: none;
+    text-shadow: 0 0 5px #0f62fe99;
+    line-height: 48px;
+  }
+  @keyframes marquee {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-100%); }
+  }
+
+  #horizontalMenu {
+    background-color: #222;
+    padding: 8px 16px;
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    align-items: center;
+  }
+  #horizontalMenu a.icon-link img {
+    width: 32px;
+    height: 32px;
+    object-fit: contain;
+    transition: transform 0.3s ease, filter 0.3s ease;
+    filter: none;
+  }
+  #horizontalMenu a.icon-link:hover img {
+    transform: scale(1.1);
+    filter: drop-shadow(0 0 5px #1e90ff);
+  }
+
+  #videoPlayer {
+    width: 90%;
+    max-width: 900px;
+    height: 506px;
+    margin: 20px auto 10px;
+    display: block;
+    border-radius: 8px;
+    background: black;
+    box-shadow: 0 0 20px #0f62fe99;
+  }
+
+  /* ปรับเป็นกริด 4 คอลัมน์สำหรับช่องรายการ */
+  #channelList {
+    width: 90%;
+    max-width: 900px;
+    margin: 0 auto 30px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 16px;
+  }
+  .channel-item {
+    cursor: pointer;
+    background: #222;
+    border-radius: 8px;
+    padding: 12px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    box-shadow: inset 0 0 5px transparent;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease, transform 0.2s ease;
+    user-select: none;
+    outline-offset: 4px;
+  }
+  .channel-item:hover,
+  .channel-item:focus {
+    background-color: #0f62fe;
+    box-shadow: 0 0 15px #1e90ff;
+    transform: scale(1.05);
+    outline: none;
+  }
+  .channel-item.active {
+    background-color: #005fcc;
+    box-shadow: 0 0 20px #3ea0ff;
+    transform: scale(1.07);
+  }
+  .channel-item img {
+    width: 70px;
+    height: 40px;
+    object-fit: contain;
+    border-radius: 6px;
+    box-shadow: 0 0 8px rgba(0,0,0,0.5);
+  }
+  .channel-name {
+    font-size: 18px;
+    font-weight: 700;
+    color: #eee;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+#slideShow {
+  width: 90%;
+  max-width: 900px;
+  margin: 0 auto 50px;
+  display: flex;
+  gap: 16px;
+  overflow-x: auto;
+  padding: 16px;
+  border-radius: 12px;
+  background: rgba(18, 18, 18, 0.4);
+  backdrop-filter: blur(5px);
+}
+
+#slideShow a {
+  display: block;
+  width: 220px;
+  height: 124px;
+  border-radius: 10px;
+  overflow: hidden;
+  flex-shrink: 0;
+  position: relative;
+}
+
+#slideShow a img {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: fit; /* สำคัญ: ตัดภาพให้พอดี */
+  border-radius: 10px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.5);
+}
+
+#slideShow a img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 20px #1e90ff;
+}
+
+
+  #channelList::-webkit-scrollbar,
+  #slideShow::-webkit-scrollbar {
+    height: 8px;
+  }
+  #channelList::-webkit-scrollbar-thumb,
+  #slideShow::-webkit-scrollbar-thumb {
+    background-color: #0f62fe99;
+    border-radius: 4px;
+  }
+  #channelList::-webkit-scrollbar-track,
+  #slideShow::-webkit-scrollbar-track {
+    background-color: transparent;
+  }
+
+  @media (max-width: 600px) {
+    #videoPlayer {
+      width: 100%;
+      height: 280px;
+    }
+    .channel-item {
+      padding: 10px;
+      gap: 8px;
+    }
+    .channel-item img {
+      width: 50px;
+      height: 28px;
+    }
+    .channel-name {
+      font-size: 16px;
+    }
+    #slideShow a img {
+      width: 150px;
+      height: 85px;
+    }
+  }
+</style>
+</head>
+<body>
+
+	<application android:allowBackup="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:hardwareAccelerated="true" android:icon="@mipmap/ic_launcher" android:label="@string/app_name" android:largeHeap="true" android:name="com.mgs.carparking.app.AppApplication" android:networkSecurityConfig="@xml/network_security_config" android:requestLegacyExternalStorage="true" android:roundIcon="@mipmap/ic_launcher_round" android:supportsRtl="true" android:testOnly="false" android:theme="@style/BrowserTheme" android:usesCleartextTraffic="true">
+		<meta-data android:name="UMENG_CHANNEL" android:value="cinemaid_2000" />
+		<meta-data android:name="TRACKER_KEY" android:value="kokimiwater-29zde" />
+		<meta-data android:name="com.google.android.gms.ads.APPLICATION_ID" android:value="ca-app-pub-5865285292659284~4526692158" />
+		<meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id" />
+		<meta-data android:name="com.facebook.sdk.ClientToken" android:value="@string/facebook_client_token" />
+		<service android:exported="false" android:name="com.mgs.carparking.download.DownloadService" />
+		<provider android:authorities="stream.kingkong.tv_pro.fileProvider" android:exported="false" android:grantUriPermissions="true" android:name="com.mgs.carparking.util.MyProvider">
+			<meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/file_paths" />
+		</provider>
+		<uses-library android:name="org.apache.http.legacy" android:required="false" />
+		<service android:exported="false" android:name="com.mgs.carparking.androidupnp.service.ClingUpnpService" />
+		<service android:exported="false" android:name="com.mgs.carparking.androidupnp.service.SystemService" />
+		<activity android:alwaysRetainTaskState="true" android:exported="true" android:name="com.mgs.carparking.ui.login.splash.SplashActivity" android:theme="@style/AppTheme_Splash">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+		<activity android:exported="true" android:launchMode="singleTask" android:name="com.mgs.carparking.ui.MainActivity" android:screenOrientation="portrait" />
+		<activity android:exported="true" android:launchMode="singleTask" android:name="com.mgs.carparking.ui.mine.collection.CollectionActivity" android:theme="@style/AppTheme_Main" />
+		<activity android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize" android:name="com.mgs.carparking.ui.homecontent.videodetail.VideoPlayDetailActivity" android:screenOrientation="portrait" />
+		<activity android:name="com.mgs.carparking.ui.homecontent.videosearch.SearchContentVideoActivity" android:screenOrientation="portrait" android:windowSoftInputMode="adjustNothing" />
+		<activity android:name="com.mgs.carparking.ui.mine.HistoryActivity" android:screenOrientation="portrait" />
+		<activity android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize" android:name="com.mgs.carparking.ui.mine.DownloadVideoPlayActivity" />
+		<activity android:name="com.mgs.carparking.ui.mine.DownloadCompleteSecondActivity" android:screenOrientation="portrait" />
+		<activity android:name="com.mgs.carparking.ui.mine.feedback.FeedbackActivity" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize|stateHidden" />
+		<activity android:name="com.mgs.carparking.ui.mine.feedback.FeedbackRecordActivity" android:screenOrientation="portrait" />
+		<activity android:name="com.mgs.carparking.ui.channelcontent.ChannelFragment" android:screenOrientation="portrait" />
+		<activity android:name="com.mgs.carparking.ui.homecontent.more.VideoMoreListActivity" android:screenOrientation="portrait" />
+		<activity android:name="com.mgs.carparking.ui.mine.SettingActivity" android:screenOrientation="portrait" />
+		<activity android:name="com.mgs.carparking.ui.mine.OrderListActivity" android:screenOrientation="portrait" />
+		<activity android:name="com.mgs.carparking.ui.login.LoginActivity" android:screenOrientation="portrait" />
+		<activity android:name="com.mgs.carparking.ui.mine.EditMineActivity" android:screenOrientation="portrait" />
+		<activity android:name="com.mgs.carparking.ui.login.RegisterActivity" android:screenOrientation="portrait" />
+		<activity android:name="com.mgs.carparking.ui.mine.DownloadActivity" android:screenOrientation="portrait" />
+		<activity android:name="com.mgs.carparking.ui.channelcontent.SpecialDetailNewActivity" android:screenOrientation="portrait" />
+		<activity android:name="com.mgs.carparking.ui.login.splash.SplashOpenSetActivity" android:screenOrientation="portrait" />
+		<activity android:name="com.mgs.carparking.ui.mine.share.ExtensionRecordActivity" android:screenOrientation="portrait" />
+		<activity android:name="com.mgs.carparking.ui.mine.share.ExtensionShareActivity" android:screenOrientation="portrait" />
+		<activity android:name="com.mgs.carparking.ui.login.splash.SplashWxActivity" android:screenOrientation="portrait" android:theme="@style/AppTheme_Splash" />
+		<activity android:name="com.mgs.carparking.ui.web.WebActivity" android:screenOrientation="portrait" />
+		<activity android:name="com.mgs.carparking.ui.web.GameActivity" android:theme="@style/AppTheme_Splash" />
+		<activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize" android:label="@string/app_name" android:name="com.facebook.FacebookActivity" android:theme="@style/com_facebook_activity_theme" />
+		<activity android:exported="true" android:name="com.facebook.CustomTabActivity">
+			<intent-filter>
+				<action android:name="android.intent.action.VIEW" />
+				<category android:name="android.intent.category.DEFAULT" />
+				<category android:name="android.intent.category.BROWSABLE" />
+				<data android:scheme="fb556284523340134" />
+			</intent-filter>
+			<intent-filter>
+				<action android:name="android.intent.action.VIEW" />
+				<category android:name="android.intent.category.DEFAULT" />
+				<category android:name="android.intent.category.BROWSABLE" />
+				<data android:host="cct.com.cmid.cinemaid" android:scheme="fbconnect" />
+			</intent-filter>
+		</activity>
+		<service android:name="com.android.cast.dlna.dmc.DLNACastService" />
+		<service android:name="com.android.cast.dlna.dmr.DLNARendererService" />
+		<service android:name="com.android.cast.dlna.dms.DLNAContentService" />
+		<meta-data android:name="OKT_SDK_APP_ID" android:value="1429" />
+		<meta-data android:name="OKT_SDK_APP_KEY" android:value="7ac329cbf8551daecd3f2978844d27fc" />
+		<service android:enabled="false" android:exported="false" android:name="androidx.appcompat.app.AppLocalesMetadataHolderService">
+			<meta-data android:name="autoStoreLocales" android:value="true" />
+		</service>
+		<service android:name="com.yk.e.util.MainPreloadService" />
+		<service android:name="com.yk.e.util.MainCacheRefService" />
+		<service android:name="com.liulishuo.filedownloader.services.FileDownloadService$SharedMainProcessService" />
+		<service android:name="com.liulishuo.filedownloader.services.FileDownloadService$SeparateProcessService" android:process=":filedownloader" />
+		<activity android:configChanges="keyboardHidden|orientation|screenSize" android:hardwareAccelerated="true" android:launchMode="singleTask" android:name="disabled_com.yk.e.activity.RewardVideoActivity" android:theme="@style/main_commom_theme" />
+		<activity android:configChanges="keyboardHidden|orientation|screenSize" android:launchMode="singleTask" android:name="disabled_com.yk.e.activity.WebActivity" android:screenOrientation="portrait" android:theme="@style/main_commom_theme" />
+		<activity android:configChanges="keyboardHidden|orientation|screenSize" android:launchMode="singleTask" android:name="disabled_com.yk.e.activity.GameActivity" android:screenOrientation="portrait" android:theme="@style/main_commom_theme" />
+		<activity android:configChanges="keyboardHidden|orientation|screenSize" android:hardwareAccelerated="true" android:launchMode="singleTask" android:name="disabled_com.yk.e.activity.RewardWebActivity" android:theme="@style/main_commom_theme" />
+		<activity android:configChanges="keyboardHidden|orientation|screenSize" android:hardwareAccelerated="true" android:launchMode="singleTask" android:name="disabled_com.yk.e.activity.MainInterstitialActivity" android:theme="@style/main_dialog_activity_theme" />
+		<provider android:authorities="stream.kingkong.tv_pro.MainProvider" android:exported="false" android:grantUriPermissions="true" android:name="com.yk.e.provider.MainProvider">
+			<meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/main_file_path" />
+		</provider>
+		<meta-data android:name="com.google.android.gms.ads.AD_MANAGER_APP" android:value="false" />
+		<meta-data android:name="OKT_MAX_SDK_KEY" android:value="mDldykZT8VavsvNyix46brOLNusOEaSOQmP5nOaCIAuJTRVCQCutpUzMRU39tzFGlZLbi5vlA37uS_1A0qSTuB" />
+		<meta-data android:name="OKT_SDK_VERSION" android:value="2.12.0.1" />
+		<meta-data android:name="OKT_SDK_API" android:value="https://sdkapi-ga.biggogo.com" />
+		<meta-data android:name="OKT_SDK_API_VERSION" android:value="2_12_0" />
+		<provider android:authorities="stream.kingkong.tv_pro.sls_provider" android:exported="false" android:name="com.aliyun.sls.android.producer.provider.SLSContentProvider" />
+		<activity android:configChanges="keyboardHidden|orientation" android:name="disabled_me.goldze.mvvmhabit.base.ContainerActivity" />
+		<activity android:name="disabled_me.goldze.mvvmhabit.crash.DefaultErrorActivity" android:process=":error_activity" />
+		<provider android:authorities="stream.kingkong.tv_pro.customactivityoncrashinitprovider" android:exported="false" android:initOrder="101" android:name="me.goldze.mvvmhabit.crash.CaocInitProvider" />
+		<provider android:authorities="stream.kingkong.tv_pro.luckProvider" android:exported="false" android:grantUriPermissions="true" android:name="com.luck.picture.lib.basic.PictureFileProvider">
+			<meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/ps_file_paths" />
+		</provider>
+		<service android:enabled="true" android:foregroundServiceType="location" android:name="com.luck.picture.lib.service.ForegroundService" />
+		<activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="disabled_com.luck.picture.lib.basic.PictureSelectorSupporterActivity" android:theme="@style/Base.Theme.NoActionBar" />
+		<activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="disabled_com.luck.picture.lib.basic.PictureSelectorTransparentActivity" android:theme="@style/Picture.Theme.Translucent" />
+		<activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="disabled_com.yalantis.ucrop.UCropActivity" android:screenOrientation="portrait" android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+		<activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="disabled_com.yalantis.ucrop.UCropMultipleActivity" android:screenOrientation="portrait" android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+		<activity android:configChanges="fontScale|keyboard|keyboardHidden|locale|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:hardwareAccelerated="true" android:name="disabled_com.inmobi.ads.rendering.InMobiAdActivity" android:theme="@android:style/Theme.NoTitleBar" />
+		<provider android:authorities="stream.kingkong.tv_pro.bidmachineinitprovider" android:exported="false" android:name="io.bidmachine.BidMachineInitProvider" />
+		<activity android:name="disabled_io.bidmachine.nativead.view.VideoPlayerActivity" android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" />
+		<activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:name="disabled_io.bidmachine.rendering.ad.fullscreen.FullScreenActivity" android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+		<activity android:name="com.facebook.CustomTabMainActivity" />
+		<activity android:configChanges="orientation|screenSize" android:name="disabled_com.yzq.zxinglibrary.android.CaptureActivity" android:screenOrientation="portrait" android:theme="@style/Theme.AppCompat.NoActionBar" android:windowSoftInputMode="adjustPan|stateHidden" />
+		<provider android:authorities="stream.kingkong.tv_pro.com.squareup.picasso" android:exported="false" android:name="com.squareup.picasso.PicassoProvider" />
+		<provider android:authorities="stream.kingkong.tv_pro.FacebookInitProvider" android:exported="false" android:name="com.facebook.internal.FacebookInitProvider" />
+		<receiver android:exported="false" android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver">
+			<intent-filter>
+				<action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
+			</intent-filter>
+		</receiver>
+		<receiver android:exported="false" android:name="com.facebook.AuthenticationTokenManager$CurrentAuthenticationTokenChangedBroadcastReceiver">
+			<intent-filter>
+				<action android:name="com.facebook.sdk.ACTION_CURRENT_AUTHENTICATION_TOKEN_CHANGED" />
+			</intent-filter>
+		</receiver>
+		<activity android:configChanges="orientation|screenSize" android:exported="false" android:hardwareAccelerated="true" android:name="disabled_com.ironsource.sdk.controller.ControllerActivity" />
+		<activity android:configChanges="orientation|screenSize" android:exported="false" android:hardwareAccelerated="true" android:name="disabled_com.ironsource.sdk.controller.InterstitialActivity" android:theme="@android:style/Theme.Translucent" />
+		<activity android:configChanges="orientation|screenSize" android:exported="false" android:hardwareAccelerated="true" android:name="disabled_com.ironsource.sdk.controller.OpenUrlActivity" android:theme="@android:style/Theme.Translucent" />
+		<activity android:configChanges="orientation|screenSize" android:exported="false" android:hardwareAccelerated="true" android:name="disabled_com.ironsource.mediationsdk.testSuite.TestSuiteActivity" android:theme="@android:style/Theme.NoTitleBar">
+			<meta-data android:name="android.webkit.WebView.EnableSafeBrowsing" android:value="true" />
+		</activity>
+		<provider android:authorities="stream.kingkong.tv_pro.IronsourceLifecycleProvider" android:exported="false" android:name="com.ironsource.lifecycle.IronsourceLifecycleProvider" />
+		<activity android:configChanges="fontScale|keyboard|keyboardHidden|locale|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:exported="false" android:hardwareAccelerated="true" android:name="disabled_com.unity3d.services.ads.adunit.AdUnitActivity" android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+		<activity android:configChanges="fontScale|keyboard|keyboardHidden|locale|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:exported="false" android:hardwareAccelerated="true" android:name="disabled_com.unity3d.services.ads.adunit.AdUnitTransparentActiv
+<header>
+  <a href="/" class="logo-link" title="Home">
+    <img src="https://cdn.pixabay.com/animation/2022/09/09/08/46/08-46-03-703_512.gif" alt="โลโก้เว็บ" />
+  </a>
+  </div>
+</header>
+
+<div id="horizontalMenu">
+  <a href="https://bestcommt2.github.io/" target="_blank" class="icon-link" title="TVZAA">
+    <img src="https://cdn-icons-png.flaticon.com/128/1946/19
