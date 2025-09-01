@@ -8,9 +8,7 @@
   <div class="text-center">
     <a href="https://www.inwiptv.asia" class="inline-block bg-yellow-400 hover:bg-yellow-500 text-black font-bold py-4 px-10 rounded-full text-lg shadow-xl transition duration-300">
                
-    <font color="white">
-        เข้าสู่เว็บไซต์ / ENTER SIT
-        </a></div>
+    
 <div id="horizontalMenu">
   <a href="https://djtono.short.gy/TONOR-V1.m3u" target="_blank" class="icon-link" title="ต้นทีวีต้นทีวี">
     <img src="https://cdn.pixabay.com/animation/2022/09/09/08/46/08-46-03-703_512.gif" alt="TVZAA Logo" />
