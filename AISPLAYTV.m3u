@@ -1,14 +1,8 @@
-#EXTM3U
-
-______________________________________________
-###AIS KEY####
-______________________________________________
+#EXTM3U url=""
+            & AIS KEY &
 playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=cdf25fd043a2d68d276212c802dbf93e&chunkHttps=true&tmid=W0016&tpbk=Azcu6ATX64Jf88nu&rrt=1759672765&tmod=rfk&rsid=c541a584-53cd-4af6-9137-1ac72e731ead&tuid=i3s4oe8Umb9vkroNBH7qT6fIKs2pmPcHuXpmuzeY%2BL2BWPCUuMn2JTgBnQYel9wNZjQTLYxWNqIVgz3ZzybbJRYyMvvS8EEQKXulLJP9984AU%3D&cdn=redfox-https&tdid=2227aaa198424c6058f4f0e27e5ec051&origin=anevia&tfa=f0-fc&tttl=1759759165
 
 |referer=https://ais-vidnt.com/
-______________________________________________
-
-______________________________________________
 
 
 
@@ -16,15 +10,7 @@ ______________________________________________
 url="https://raw.githubusercontent.com/akin230/akin230/refs/heads/main/AISPLAYTV.m3u"
 url=""
 
-##EXTM3U url-tvg="https://iptv36.vercel.app/epg.xml,https://www.open-epg.com/files/thailand2.xml,https://thailandepg.tiiny.site/thailand2-2.xml,https://raw.githubusercontent.com/K-vanc/Tempest-EPG-Generator/refs/heads/main/Siteconfigs/Thailand/%5BENC%5Dgigatv.3bbtv.co.th_0.channel.xml,https://thailandepg.tiiny.site/thailand2-2.xml,https://raw.githubusercontent.com/K-vanc/Tempest-EPG-Generator/refs/heads/main/Siteconfigs/Thailand/%5BENC%5Dtv.trueid.net_0.channel.xml" refresh="3600"
-
-
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml" refresh="1440" max-conn="1" refresh="24"
-
-
-AISPLAY###
---------------------------------------------------------------
-
+#EXTM3U url-tvg="https://iptv36.vercel.app/epg.xml,https://www.open-epg.com/files/thailand2.xml,https://thailandepg.tiiny.site/thailand2-2.xml,https://raw.githubusercontent.com/K-vanc/Tempest-EPG-Generator/refs/heads/main/Siteconfigs/Thailand/%5BENC%5Dgigatv.3bbtv.co.th_0.channel.xml,https://thailandepg.tiiny.site/thailand2-2.xml,https://raw.githubusercontent.com/K-vanc/Tempest-EPG-Generator/refs/heads/main/Siteconfigs/Thailand/%5BENC%5Dtv.trueid.net_0.channel.xml" refresh="3600"
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png" group-title="ช่องเอไอเอส", NBT  
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
