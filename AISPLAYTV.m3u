@@ -1,17 +1,4 @@
-#EXTM3U url="https://raw.githubusercontent.com/akin230/akin230/refs/heads/main/AISPLAYTV.m3u"
-            & AIS KEY &
-playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=cdf25fd043a2d68d276212c802dbf93e&chunkHttps=true&tmid=W0016&tpbk=Azcu6ATX64Jf88nu&rrt=1759672765&tmod=rfk&rsid=c541a584-53cd-4af6-9137-1ac72e731ead&tuid=i3s4oe8Umb9vkroNBH7qT6fIKs2pmPcHuXpmuzeY%2BL2BWPCUuMn2JTgBnQYel9wNZjQTLYxWNqIVgz3ZzybbJRYyMvvS8EEQKXulLJP9984AU%3D&cdn=redfox-https&tdid=2227aaa198424c6058f4f0e27e5ec051&origin=anevia&tfa=f0-fc&tttl=1759759165
-
-|referer=https://ais-vidnt.com/
-
-
-
-#EXTM3U url-tvg="https://github.com/akkradet/IPTV-THAI/raw/master/guide.xml,http://poid0020.trueddns.com:54337/guide.xml,https://iptv36.vercel.app/epg.xml,https://epg.pw/xmltv/epg_TH.xml, https://www.bevy.be/bevyfiles/thailandpremium.xml,https://xmltv.tvkaista.net/guides/tv.trueid.net.xml" refresh="3600" 
-url="https://raw.githubusercontent.com/akin230/akin230/refs/heads/main/AISPLAYTV.m3u"
-url=""
-
-#EXTM3U url-tvg="https://iptv36.vercel.app/epg.xml,https://www.open-epg.com/files/thailand2.xml,https://thailandepg.tiiny.site/thailand2-2.xml,https://raw.githubusercontent.com/K-vanc/Tempest-EPG-Generator/refs/heads/main/Siteconfigs/Thailand/%5BENC%5Dgigatv.3bbtv.co.th_0.channel.xml,https://thailandepg.tiiny.site/thailand2-2.xml,https://raw.githubusercontent.com/K-vanc/Tempest-EPG-Generator/refs/heads/main/Siteconfigs/Thailand/%5BENC%5Dtv.trueid.net_0.channel.xml" refresh="3600"
-
+#EXTM3U url=""
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png" group-title="ช่องเอไอเอส", NBT  
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1436,4 +1423,5 @@ https://xyzdddd.mizhls.ru/lb/premium420/mono.m3u8
 https://xyzdddd.mizhls.ru/lb/premium421/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://drive.google.com/uc?id=1izIYdOB9nWf3Fs1KPiY7FRg3QlXufAyn" group-title="ช่องกีฬาต่างประทศ",SuperSportGolf
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win
