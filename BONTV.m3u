@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url="https://raw.githubusercontent.com/akin230/akin230/refs/heads/main/BONTV.m3u"
 #EXTINF:1 tvg-logo="https://www.fileinw.com/postor/20240429213326FWSOV.jpg" group-title="ช่องinwiptv", FWSOV
 https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDI1IDEyOjM1OjA2IEFNJmhhc2hfdmFsdWU9WmI4V2FTYzFUNXY5ejNOZ0ljSStJdz09JnZhbGlkbWludXRlcz0y
 
