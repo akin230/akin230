@@ -1,4 +1,4 @@
-#EXTM3U url=""
+#EXTM3U url="https://raw.githubusercontent.com/akin230/akin230/refs/heads/main/tonortv.m3u"
 
 #EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240418191153JKN18.jpg" group-title="AISPLAY PLAYID", JKN 18
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
