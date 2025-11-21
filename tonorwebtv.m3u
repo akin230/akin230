@@ -192,3 +192,20 @@ http://49.0.64.96:8007/AMAZING
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0152/DASH/V0152.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fae9ea96b93b15017ac0124b3f0f8323&chunkHttps=true&tmid=W0016&tpbk=5Ng1rwKbGaNk5pV8&rrt=1763738337&tmod=rfk&rsid=4337bd81-8bc7-4481-8581-28a09eedeaea&tuid=a24fa5fc48&cdn=redfox-https&tdid=84cf5af42a3234d9f2ec0d5270e30cee&origin=anevia&tfa=f0-fc&tttl=1763824734|referer=https://web-player.ais-vidnt.com/
+
+
+#EXTINF:-1  group-title="ช่องเอไอเอส" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",True Series
+http://119.59.118.159/live/ch59/xxccxgd134/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png" group-title="ช่องเอไอเอส",สำรวจโลก
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+http://119.59.118.159/live/ch50/xxccxgd134/index.m3u8
+
+url-tvg="https://raw.githubusercontent.com/K-vanc/Tempest-EPG-Generator/refs/heads/main/Siteconfigs/Thailand/%5BENC%5Daisplay.ais.co.th_0.channel.xml,https://playidtv.vercel.app/ais/thailand.xml"refresh="24"
+url="https://bbmksnzwjcqigxoi0iicoq.on.drv.tw/www.tonor.com/tonortv.index.html"
+   
+           KEY AIS
+___________________
+playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fae9ea96b93b15017ac0124b3f0f8323&chunkHttps=true&tmid=W0016&tpbk=5Ng1rwKbGaNk5pV8&rrt=1763738337&tmod=rfk&rsid=4337bd81-8bc7-4481-8581-28a09eedeaea&tuid=a24fa5fc48&cdn=redfox-https&tdid=84cf5af42a3234d9f2ec0d5270e30cee&origin=anevia&tfa=f0-fc&tttl=1763824734|referer=https://web-player.ais-vidnt.com/|referer=https://web-player.ais-vidnt.com/
+
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/W0016/HLS/W0016.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fae9ea96b93b15017ac0124b3f0f8323&chunkHttps=true&tmid=W0016&tpbk=5Ng1rwKbGaNk5pV8&rrt=1763738337&tmod=rfk&rsid=4337bd81-8bc7-4481-8581-28a09eedeaea&tuid=a24fa5fc48&cdn=redfox-https&tdid=84cf5af42a3234d9f2ec0d5270e30cee&origin=anevia&tfa=f0-fc&tttl=1763824734
