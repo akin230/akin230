@@ -1,4 +1,4 @@
-#EXTM3U url="https://raw.githubusercontent.com/akin230/akin230/refs/heads/main/3BBGGtv.m3u"
+#EXTM3U 
 #EXTINF:-1 tvg-chno="2" tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png" group-title="ช่อง3BBGIGATV", NBT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
