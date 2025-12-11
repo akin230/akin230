@@ -1,4 +1,4 @@
-#EXTM3U url=""
+#EXTM3U url="https://raw.githubusercontent.com/akin230/akin230/refs/heads/main/oldmantv.m3u"
 #EXTINF:180,My Song Title
 C:\Music\MySong.mp3
 #EXTINF:240,Another Song - Artist
