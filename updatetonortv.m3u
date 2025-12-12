@@ -1,4 +1,4 @@
-#EXTM3U url="https://raw.githubusercontent.com/akin230/akin230/refs/heads/main/tonorwebtv.m3u"
+#EXTM3U url="https://raw.githubusercontent.com/akin230/akin230/c3ca242ccbbb3b5e751d25b80e594aedb14c8d74/updatetonortv.m3u"
 #EXTINF:-1 tvg-id="NBT" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png" group-title="ช่องเอไอเอส", NBT 
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
