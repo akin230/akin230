@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U url='https://raw.githubusercontent.com/akin230/akin230/refs/heads/main/tonortv.index.m3u'
 
 #EXTINF:-1 tvg-chno="2" tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png" group-title="�&#142987;&#65533;&#65533;���&#65533;&#65533;อ�&#65533;อ�&#65533;อส", MONO29 PLUS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -725,3 +725,4 @@ playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&amp;originBasi
 https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/W0016/HLS/W0016.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&amp;originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&amp;tt=eba6506e9313dc118df50110d797f5f9&amp;chunkHttps=true&amp;tmid=W0016&amp;tpbk=17mrAevGdqeGfZqA&amp;rrt=1765371137&amp;tmod=rfk&amp;rsid=05ecfe4b-fcd0-4861-a769-e924e6bc1cb2&amp;tuid=a24fa5fc48&amp;cdn=redfox-https&amp;tdid=84cf5af42a3234d9f2ec0d5270e30cee&amp;origin=anevia&amp;tfa=f0-fc&amp;tttl=1765457534
 </body></html>
 ------MultipartBoundary--QGKbbpIUU1MJNxf1ImoLyFOBTb3Vrw64LZ5jSZqceq------
+
