@@ -1,7 +1,7 @@
 #EXTM3U "https://raw.githubusercontent.com/akin230/akin230/refs/heads/main/tonortv.index.m3u"
 
 #EXTINF:-1 tvg-chno="2" tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://image.tmdb.org/t/p/w500/lXR32JepFwD1UHkplWqtBP1K79z.jpg" group-title="FreeTV", DEADS OF UNICON
-https://streamy.xn--72czp5e5a8b.live/movies/68144027e015d9b8760cb9fa/master.m3u8
+https://18.dedkub.cyou/hd/720/1553-Death.of.a.Unicorn.2025.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png" group-title="ช่องสารคดี", Samrujlok
 #EXTVLCOPT:http-referrer=https://github.com/
