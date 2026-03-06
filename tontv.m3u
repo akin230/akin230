@@ -1,0 +1,103 @@
+#EXTM3U ""
+
+#EXTINF:-1 tvg-id="NBT" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png" group-title="FreeTV", NBT 
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0001/DASH/B0001.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=d61feaee2be9e8c029b1f27c0f4eadb7&chunkHttps=true&tmid=B0013&tpbk=Ej0HCGV6Vm7Kv8nt&rrt=1772810581&tmod=rfk&rsid=b9feb41d-e5c6-4eb8-bfb2-cafd3c35dad1&tuid=dodaGQOw6RZub2IAcHGTfqs8AkpzABA7mfjohtWR31l0sNrKxiAPdBW1DfbZ%2BDPkBPQTLYxWNqIVgz3ZzybbJRY7vXDH9W7rLrulLJP9984AU%3D&cdn=redfox-https&tdid=9e9faa7ca4b63de2d94e1a285e15f736&origin=anevia&tfa=f0-fc&tttl=1772896976|referer=https://web-player.ais-vidnt.com/   
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png" group-title="FreeTV", TPBS
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/  
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0014/DASH/B0014.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=d61feaee2be9e8c029b1f27c0f4eadb7&chunkHttps=true&tmid=B0013&tpbk=Ej0HCGV6Vm7Kv8nt&rrt=1772810581&tmod=rfk&rsid=b9feb41d-e5c6-4eb8-bfb2-cafd3c35dad1&tuid=dodaGQOw6RZub2IAcHGTfqs8AkpzABA7mfjohtWR31l0sNrKxiAPdBW1DfbZ%2BDPkBPQTLYxWNqIVgz3ZzybbJRY7vXDH9W7rLrulLJP9984AU%3D&cdn=redfox-https&tdid=9e9faa7ca4b63de2d94e1a285e15f736&origin=anevia&tfa=f0-fc&tttl=1772896976|referer=https://web-player.ais-vidnt.com/ 
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG" group-title="FreeTV", ALTV4
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0085/DASH/V0085.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=d61feaee2be9e8c029b1f27c0f4eadb7&chunkHttps=true&tmid=B0013&tpbk=Ej0HCGV6Vm7Kv8nt&rrt=1772810581&tmod=rfk&rsid=b9feb41d-e5c6-4eb8-bfb2-cafd3c35dad1&tuid=dodaGQOw6RZub2IAcHGTfqs8AkpzABA7mfjohtWR31l0sNrKxiAPdBW1DfbZ%2BDPkBPQTLYxWNqIVgz3ZzybbJRY7vXDH9W7rLrulLJP9984AU%3D&cdn=redfox-https&tdid=9e9faa7ca4b63de2d94e1a285e15f736&origin=anevia&tfa=f0-fc&tttl=1772896976|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png" group-title="FreeTV", CH5
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0007/DASH/B0007.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=d61feaee2be9e8c029b1f27c0f4eadb7&chunkHttps=true&tmid=B0013&tpbk=Ej0HCGV6Vm7Kv8nt&rrt=1772810581&tmod=rfk&rsid=b9feb41d-e5c6-4eb8-bfb2-cafd3c35dad1&tuid=dodaGQOw6RZub2IAcHGTfqs8AkpzABA7mfjohtWR31l0sNrKxiAPdBW1DfbZ%2BDPkBPQTLYxWNqIVgz3ZzybbJRY7vXDH9W7rLrulLJP9984AU%3D&cdn=redfox-https&tdid=9e9faa7ca4b63de2d94e1a285e15f736&origin=anevia&tfa=f0-fc&tttl=1772896976|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png" group-title="FreeTV", T-SPORTS
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0129/DASH/B0129.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=d61feaee2be9e8c029b1f27c0f4eadb7&chunkHttps=true&tmid=B0013&tpbk=Ej0HCGV6Vm7Kv8nt&rrt=1772810581&tmod=rfk&rsid=b9feb41d-e5c6-4eb8-bfb2-cafd3c35dad1&tuid=dodaGQOw6RZub2IAcHGTfqs8AkpzABA7mfjohtWR31l0sNrKxiAPdBW1DfbZ%2BDPkBPQTLYxWNqIVgz3ZzybbJRY7vXDH9W7rLrulLJP9984AU%3D&cdn=redfox-https&tdid=9e9faa7ca4b63de2d94e1a285e15f736&origin=anevia&tfa=f0-fc&tttl=1772896976|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png" group-title="FreeTV", Parliament
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0048/DASH/V0048.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=d61feaee2be9e8c029b1f27c0f4eadb7&chunkHttps=true&tmid=B0013&tpbk=Ej0HCGV6Vm7Kv8nt&rrt=1772810581&tmod=rfk&rsid=b9feb41d-e5c6-4eb8-bfb2-cafd3c35dad1&tuid=dodaGQOw6RZub2IAcHGTfqs8AkpzABA7mfjohtWR31l0sNrKxiAPdBW1DfbZ%2BDPkBPQTLYxWNqIVgz3ZzybbJRY7vXDH9W7rLrulLJP9984AU%3D&cdn=redfox-https&tdid=9e9faa7ca4b63de2d94e1a285e15f736&origin=anevia&tfa=f0-fc&tttl=1772896976|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png" group-title="FreeTV", TNN 16
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0053/DASH/V0053.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=d61feaee2be9e8c029b1f27c0f4eadb7&chunkHttps=true&tmid=B0013&tpbk=Ej0HCGV6Vm7Kv8nt&rrt=1772810581&tmod=rfk&rsid=b9feb41d-e5c6-4eb8-bfb2-cafd3c35dad1&tuid=dodaGQOw6RZub2IAcHGTfqs8AkpzABA7mfjohtWR31l0sNrKxiAPdBW1DfbZ%2BDPkBPQTLYxWNqIVgz3ZzybbJRY7vXDH9W7rLrulLJP9984AU%3D&cdn=redfox-https&tdid=9e9faa7ca4b63de2d94e1a285e15f736&origin=anevia&tfa=f0-fc&tttl=1772896976|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png" group-title="FreeTV", JKN 18
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0010/DASH/B0010.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=d61feaee2be9e8c029b1f27c0f4eadb7&chunkHttps=true&tmid=B0013&tpbk=Ej0HCGV6Vm7Kv8nt&rrt=1772810581&tmod=rfk&rsid=b9feb41d-e5c6-4eb8-bfb2-cafd3c35dad1&tuid=dodaGQOw6RZub2IAcHGTfqs8AkpzABA7mfjohtWR31l0sNrKxiAPdBW1DfbZ%2BDPkBPQTLYxWNqIVgz3ZzybbJRY7vXDH9W7rLrulLJP9984AU%3D&cdn=redfox-https&tdid=9e9faa7ca4b63de2d94e1a285e15f736&origin=anevia&tfa=f0-fc&tttl=1772896976|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png" group-title="FreeTV", Nation TV
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0021/DASH/B0021.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=d61feaee2be9e8c029b1f27c0f4eadb7&chunkHttps=true&tmid=B0013&tpbk=Ej0HCGV6Vm7Kv8nt&rrt=1772810581&tmod=rfk&rsid=b9feb41d-e5c6-4eb8-bfb2-cafd3c35dad1&tuid=dodaGQOw6RZub2IAcHGTfqs8AkpzABA7mfjohtWR31l0sNrKxiAPdBW1DfbZ%2BDPkBPQTLYxWNqIVgz3ZzybbJRY7vXDH9W7rLrulLJP9984AU%3D&cdn=redfox-https&tdid=9e9faa7ca4b63de2d94e1a285e15f736&origin=anevia&tfa=f0-fc&tttl=1772896976|referer=https://web-player.ais-vidnt.com/
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png" group-title="FreeTV", Workpoint TV oldman
+https://global-media.sooplive.com/live/workpoint/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png" group-title="FreeTV", Workpoint TV
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0015/DASH/B0015.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=d61feaee2be9e8c029b1f27c0f4eadb7&chunkHttps=true&tmid=B0013&tpbk=Ej0HCGV6Vm7Kv8nt&rrt=1772810581&tmod=rfk&rsid=b9feb41d-e5c6-4eb8-bfb2-cafd3c35dad1&tuid=dodaGQOw6RZub2IAcHGTfqs8AkpzABA7mfjohtWR31l0sNrKxiAPdBW1DfbZ%2BDPkBPQTLYxWNqIVgz3ZzybbJRY7vXDH9W7rLrulLJP9984AU%3D&cdn=redfox-https&tdid=9e9faa7ca4b63de2d94e1a285e15f736&origin=anevia&tfa=f0-fc&tttl=1772896976|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="FreeTV", True 4 U
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0054/DASH/B0054.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=d61feaee2be9e8c029b1f27c0f4eadb7&chunkHttps=true&tmid=B0013&tpbk=Ej0HCGV6Vm7Kv8nt&rrt=1772810581&tmod=rfk&rsid=b9feb41d-e5c6-4eb8-bfb2-cafd3c35dad1&tuid=dodaGQOw6RZub2IAcHGTfqs8AkpzABA7mfjohtWR31l0sNrKxiAPdBW1DfbZ%2BDPkBPQTLYxWNqIVgz3ZzybbJRY7vXDH9W7rLrulLJP9984AU%3D&cdn=redfox-https&tdid=9e9faa7ca4b63de2d94e1a285e15f736&origin=anevia&tfa=f0-fc&tttl=1772896976|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" group-title="FreeTV", GMM25
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0019/DASH/B0019.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=d61feaee2be9e8c029b1f27c0f4eadb7&chunkHttps=true&tmid=B0013&tpbk=Ej0HCGV6Vm7Kv8nt&rrt=1772810581&tmod=rfk&rsid=b9feb41d-e5c6-4eb8-bfb2-cafd3c35dad1&tuid=dodaGQOw6RZub2IAcHGTfqs8AkpzABA7mfjohtWR31l0sNrKxiAPdBW1DfbZ%2BDPkBPQTLYxWNqIVgz3ZzybbJRY7vXDH9W7rLrulLJP9984AU%3D&cdn=redfox-https&tdid=9e9faa7ca4b63de2d94e1a285e15f736&origin=anevia&tfa=f0-fc&tttl=1772896976|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png" group-title="FreeTV", CH8
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0006/DASH/B0006.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=d61feaee2be9e8c029b1f27c0f4eadb7&chunkHttps=true&tmid=B0013&tpbk=Ej0HCGV6Vm7Kv8nt&rrt=1772810581&tmod=rfk&rsid=b9feb41d-e5c6-4eb8-bfb2-cafd3c35dad1&tuid=dodaGQOw6RZub2IAcHGTfqs8AkpzABA7mfjohtWR31l0sNrKxiAPdBW1DfbZ%2BDPkBPQTLYxWNqIVgz3ZzybbJRY7vXDH9W7rLrulLJP9984AU%3D&cdn=redfox-https&tdid=9e9faa7ca4b63de2d94e1a285e15f736&origin=anevia&tfa=f0-fc&tttl=1772896976|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" group-title="FreeTV", MONO29
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0016/DASH/B0016.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=d61feaee2be9e8c029b1f27c0f4eadb7&chunkHttps=true&tmid=B0013&tpbk=Ej0HCGV6Vm7Kv8nt&rrt=1772810581&tmod=rfk&rsid=b9feb41d-e5c6-4eb8-bfb2-cafd3c35dad1&tuid=dodaGQOw6RZub2IAcHGTfqs8AkpzABA7mfjohtWR31l0sNrKxiAPdBW1DfbZ%2BDPkBPQTLYxWNqIVgz3ZzybbJRY7vXDH9W7rLrulLJP9984AU%3D&cdn=redfox-https&tdid=9e9faa7ca4b63de2d94e1a285e15f736&origin=anevia&tfa=f0-fc&tttl=1772896976|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png" group-title="FreeTV", MCOT9
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0008/DASH/B0008.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=d61feaee2be9e8c029b1f27c0f4eadb7&chunkHttps=true&tmid=B0013&tpbk=Ej0HCGV6Vm7Kv8nt&rrt=1772810581&tmod=rfk&rsid=b9feb41d-e5c6-4eb8-bfb2-cafd3c35dad1&tuid=dodaGQOw6RZub2IAcHGTfqs8AkpzABA7mfjohtWR31l0sNrKxiAPdBW1DfbZ%2BDPkBPQTLYxWNqIVgz3ZzybbJRY7vXDH9W7rLrulLJP9984AU%3D&cdn=redfox-https&tdid=9e9faa7ca4b63de2d94e1a285e15f736&origin=anevia&tfa=f0-fc&tttl=1772896976|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" group-title="FreeTV", ONE 31
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0012/DASH/B0012.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=d61feaee2be9e8c029b1f27c0f4eadb7&chunkHttps=true&tmid=B0013&tpbk=Ej0HCGV6Vm7Kv8nt&rrt=1772810581&tmod=rfk&rsid=b9feb41d-e5c6-4eb8-bfb2-cafd3c35dad1&tuid=dodaGQOw6RZub2IAcHGTfqs8AkpzABA7mfjohtWR31l0sNrKxiAPdBW1DfbZ%2BDPkBPQTLYxWNqIVgz3ZzybbJRY7vXDH9W7rLrulLJP9984AU%3D&cdn=redfox-https&tdid=9e9faa7ca4b63de2d94e1a285e15f736&origin=anevia&tfa=f0-fc&tttl=1772896976|referer=https://web-player.ais-vidnt.com/
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" group-title="FreeTV", Thairath oldman
+http://45.136.252.97:8081/app/thairathtv/playlist.m3u8,
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" group-title="FreeTV", Thairath
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0013/DASH/B0013.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=d61feaee2be9e8c029b1f27c0f4eadb7&chunkHttps=true&tmid=B0013&tpbk=Ej0HCGV6Vm7Kv8nt&rrt=1772810581&tmod=rfk&rsid=b9feb41d-e5c6-4eb8-bfb2-cafd3c35dad1&tuid=dodaGQOw6RZub2IAcHGTfqs8AkpzABA7mfjohtWR31l0sNrKxiAPdBW1DfbZ%2BDPkBPQTLYxWNqIVgz3ZzybbJRY7vXDH9W7rLrulLJP9984AU%3D&cdn=redfox-https&tdid=9e9faa7ca4b63de2d94e1a285e15f736&origin=anevia&tfa=f0-fc&tttl=1772896976|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG" group-title="FreeTV", 3HD
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0003/DASH/B0003.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=d61feaee2be9e8c029b1f27c0f4eadb7&chunkHttps=true&tmid=B0013&tpbk=Ej0HCGV6Vm7Kv8nt&rrt=1772810581&tmod=rfk&rsid=b9feb41d-e5c6-4eb8-bfb2-cafd3c35dad1&tuid=dodaGQOw6RZub2IAcHGTfqs8AkpzABA7mfjohtWR31l0sNrKxiAPdBW1DfbZ%2BDPkBPQTLYxWNqIVgz3ZzybbJRY7vXDH9W7rLrulLJP9984AU%3D&cdn=redfox-https&tdid=9e9faa7ca4b63de2d94e1a285e15f736&origin=anevia&tfa=f0-fc&tttl=1772896976|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png" group-title="FreeTV", Amarin
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0017/DASH/B0017.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=d61feaee2be9e8c029b1f27c0f4eadb7&chunkHttps=true&tmid=B0013&tpbk=Ej0HCGV6Vm7Kv8nt&rrt=1772810581&tmod=rfk&rsid=b9feb41d-e5c6-4eb8-bfb2-cafd3c35dad1&tuid=dodaGQOw6RZub2IAcHGTfqs8AkpzABA7mfjohtWR31l0sNrKxiAPdBW1DfbZ%2BDPkBPQTLYxWNqIVgz3ZzybbJRY7vXDH9W7rLrulLJP9984AU%3D&cdn=redfox-https&tdid=9e9faa7ca4b63de2d94e1a285e15f736&origin=anevia&tfa=f0-fc&tttl=1772896976|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png" group-title="FreeTV", CH7
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0018/DASH/B0018.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=d61feaee2be9e8c029b1f27c0f4eadb7&chunkHttps=true&tmid=B0013&tpbk=Ej0HCGV6Vm7Kv8nt&rrt=1772810581&tmod=rfk&rsid=b9feb41d-e5c6-4eb8-bfb2-cafd3c35dad1&tuid=dodaGQOw6RZub2IAcHGTfqs8AkpzABA7mfjohtWR31l0sNrKxiAPdBW1DfbZ%2BDPkBPQTLYxWNqIVgz3ZzybbJRY7vXDH9W7rLrulLJP9984AU%3D&cdn=redfox-https&tdid=9e9faa7ca4b63de2d94e1a285e15f736&origin=anevia&tfa=f0-fc&tttl=1772896976|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/PPTV_2024e.jpg" group-title="FreeTV", PPTV
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0022/DASH/B0022.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=d61feaee2be9e8c029b1f27c0f4eadb7&chunkHttps=true&tmid=B0013&tpbk=Ej0HCGV6Vm7Kv8nt&rrt=1772810581&tmod=rfk&rsid=b9feb41d-e5c6-4eb8-bfb2-cafd3c35dad1&tuid=dodaGQOw6RZub2IAcHGTfqs8AkpzABA7mfjohtWR31l0sNrKxiAPdBW1DfbZ%2BDPkBPQTLYxWNqIVgz3ZzybbJRY7vXDH9W7rLrulLJP9984AU%3D&cdn=redfox-https&tdid=9e9faa7ca4b63de2d94e1a285e15f736&origin=anevia&tfa=f0-fc&tttl=1772896976|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png" group-title="FreeTV", Khong Dee Thailand
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0154/DASH/V0154.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=d61feaee2be9e8c029b1f27c0f4eadb7&chunkHttps=true&tmid=B0013&tpbk=Ej0HCGV6Vm7Kv8nt&rrt=1772810581&tmod=rfk&rsid=b9feb41d-e5c6-4eb8-bfb2-cafd3c35dad1&tuid=dodaGQOw6RZub2IAcHGTfqs8AkpzABA7mfjohtWR31l0sNrKxiAPdBW1DfbZ%2BDPkBPQTLYxWNqIVgz3ZzybbJRY7vXDH9W7rLrulLJP9984AU%3D&cdn=redfox-https&tdid=9e9faa7ca4b63de2d94e1a285e15f736&origin=anevia&tfa=f0-fc&tttl=1772896976|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png" group-title="FreeTV", Thainess
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0155/DASH/V0155.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%
