@@ -1,5 +1,40 @@
 #EXTM3U "https://raw.githubusercontent.com/akin230/akin230/refs/heads/main/tontv.m3u"
 
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeUTdtCVdphG_Ap_2WDQXAI4.png" group-title="FreeTV",สำรวจโลก
+https://love.pifipa2974.workers.dev/lx-origin/streamx-samrujlok_480/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXBmkdQdSVQEkfZDi8jFx8cW_G95yZKboy4KDRbv9diJw.png" group-title="FreeTV",TRUE SCI
+https://love.pifipa2974.workers.dev/lx-origin/sd-expsci_720/chunks.m3u8#http://119.59.118.168/live/ch56/thailosonic2026/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXBmkdQdSVQEkfZDi8jFx8cW_G95yZKboy4KDRbv9diJw.png" group-title="FreeTV",TRUE SCI
+https://love.pifipa2974.workers.dev/lx-origin/sd-expsci_720/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXBmkdQdSVQEkfZDi8jFx8cW_G95yZKboy4KDRbv9diJw.png" group-title="FreeTV",MONO PLUS
+https://monomax-ooleht.cdn.byteark.com/fleetstream/MonoPlus/1080p/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXgBrn2EADs862K6G_HpFhO.png" group-title="FreeTV",MOVIES HITS
+https://www.dropbox.com/scl/fi/zkfhp9c28j7ykzzyp25w3/server1-movies-true-movies-hits.m3u8?rlkey=ext5o29uqtnsrrio427hdjc0a&dl=1
+
+
+
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXgBrn2EADs862K6G_HpFhO.png" group-title="FreeTV",MOVIES HITS
+https://love.pifipa2974.workers.dev/lx-origin/sd-moviehits_720/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeUz42JIAnARoDTS-wNXiOu6TEihW1mwVGQeYNjRfdVbNQ.png" group-title="FreeTV",MOVIE HBO
+https://dl.dropbox.com/scl/fi/bri2whhvzmy9dfnz5y5ox/server2-movies-hbo.m3u8?rlkey=3f24pg8w0myd4q1xvx1bolyiq&dl=1
+
+
+
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeUz42JIAnARoDTS-wNXiOu6TEihW1mwVGQeYNjRfdVbNQ.png" group-title="FreeTV",MOVIE HBO
+https://love.pifipa2974.workers.dev/lx-origin/th-hbo_720/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXBmkdQdSVQEkfZDi8jFx8cW_G95yZKboy4KDRbv9diJw.png" group-title="FreeTV",CINEMAX
+http://mooseven.ddns.net:8080/blive/blivetv/255844
+
 #EXTINF:-1 tvg-id="NBT" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png" group-title="FreeTV", NBT 
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
