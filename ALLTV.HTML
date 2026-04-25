@@ -1,0 +1,207 @@
+
+<!DOCTYPE html>
+<html lang="th">
+
+<head>
+    <title>Wiseplay</title>
+    <!-- ชื่อเรื่องของหน้าเว็บ -->
+    <meta charset="UTF-8">
+    <!-- กำหนดชุดอักขระของหน้าเว็บให้เป็น UTF-8 -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.1, maximum-scale=10, user-scalable=yes">
+    <!-- กำหนดการแสดงผลของหน้าเว็บให้เหมาะสมกับอุปกรณ์ต่าง ๆ และอนุญาตให้ผู้ใช้งานปรับขนาดได้ -->
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!-- กำหนดให้เบราว์เซอร์ใช้โหมดการแสดงผลที่เข้ากันได้ -->
+    <style>
+        /* เริ่มต้นส่วนของ CSS สำหรับการกำหนดรูปแบบของหน้าเว็บ */
+        body {
+            background-color: #000;
+            /* กำหนดสีพื้นหลังเป็นสีดำ */
+            color: #fff;
+            /* กำหนดสีตัวอักษรเป็นสีขาว */
+            margin: 0;
+            /* ยกเลิกระยะขอบรอบนอกของหน้าเว็บ */
+            text-align: center;
+            /* จัดเรียงข้อความให้อยู่ตรงกลาง */
+            font-family: Arial, sans-serif;
+            /* กำหนดฟอนต์เป็น Arial และฟอนต์สำรองเป็น sans-serif */
+        }
+        img {
+            border-radius: 20px;
+            /* กำหนดมุมของรูปภาพให้โค้งมน */
+            border: 1px solid #87CEFA;
+            /* เพิ่มเส้นขอบรอบรูปภาพและกำหนดสีฟ้า */
+            padding: 2px;
+            /* เพิ่มระยะห่างระหว่างขอบและรูปภาพ */
+            margin: 3px;
+            /* กำหนดระยะห่างรอบรูปภาพ */
+            height: 80px;
+            /* กำหนดความสูงของรูปภาพ */
+            width: 80px;
+            /* กำหนดความกว้างของรูปภาพ */
+        }
+        .popup, .overlay, [style*="position: fixed"], [style*="position: absolute"] {
+            display: none !important;
+            /* ซ่อนองค์ประกอบที่มี position แบบ fixed หรือ absolute */
+        }
+    </style>
+
+    <script>
+        /* เริ่มต้นส่วนของ JavaScript */
+        window.onload = function () {
+            // เมื่อหน้าเว็บโหลดเสร็จสมบูรณ์ ให้เรียกใช้งานฟังก์ชันนี้
+            var adElements = document.querySelectorAll('[id*="ad"], [class*="ad"], [src*="ads"]');
+            // ค้นหาองค์ประกอบทั้งหมดที่มี id หรือ class ที่มีคำว่า "ad" หรือ src ที่มีคำว่า "ads"
+            adElements.forEach(function(element) {
+                // วนลูปเพื่อตั้งค่าการแสดงผลขององค์ประกอบที่พบ
+                element.style.display = 'none';
+                // ซ่อนองค์ประกอบที่เกี่ยวข้องกับโฆษณา
+            });
+        }
+    </script>
+</head>
+<body>
+        </head>
+    <body>
+    
+
+<!-- ลิงก์ที่สร้าง Intent สำหรับเปิดโปรแกรม Wiseplay เพื่อเล่นวิดีโอ -->
+<a href="intent://coolism-web.cdn.byteark.com/;stream/1#Intent;package=com.mxtech.videoplayer.ad;S.userAgent=exo_player;S.title=Live%20Program;S.referer=;scheme=https;type=video/mp4;end">
+
+  <!-- แท็ก <img> ใช้สำหรับแสดงภาพโลโก้ของช่อง -->
+  <img 
+    class="channel" 
+    src="https://i1.sndcdn.com/avatars-t3aFJipUsgnY5jhX-CzKotQ-t1080x1080.jpg" 
+    alt="" 
+    onerror="this.onerror=null; 
+             this.src='https://as2.ftcdn.net/jpg/03/53/54/91/1000_F_353549130_ahtWCQjjJzhzP8ocg1qR3s2E3Cz1VR3w.jpg';">
+
+
+<!-- ลิงก์ที่สร้าง Intent สำหรับเปิดโปรแกรม Wiseplay เพื่อเล่นวิดีโอ -->
+<a href="intent://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd#Intent;package=com.mxtech.videoplayer.ad;S.userAgent=exo_player;S.title=Live%20Program;S.referer=;scheme=https;type=video/mp4;end">
+
+  <!-- แท็ก <img> ใช้สำหรับแสดงภาพโลโก้ของช่อง -->
+  <img 
+    class="channel" 
+    src="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" 
+    alt="" 
+    onerror="this.onerror=null; 
+             this.src='https://as2.ftcdn.net/jpg/03/53/54/91/1000_F_353549130_ahtWCQjjJzhzP8ocg1qR3s2E3Cz1VR3w.jpg';">
+             
+             
+<a href="intent://love.pifipa2974.workers.dev/lx-origin/streamx-samrujlok_480/chunks.m3u8#Intent;package=com.mxtech.videoplayer.ad;S.userAgent=exo_player;S.title=Live%20Program;S.referer=;scheme=https;type=video/mp4;end">
+
+  <!-- แท็ก <img> ใช้สำหรับแสดงภาพโลโก้ของช่อง -->
+  <img 
+    class="channel" 
+    src="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png" 
+        alt="" 
+    onerror="this.onerror=null; 
+             this.src='https://as2.ftcdn.net/jpg/03/53/54/91/1000_F_353549130_ahtWCQjjJzhzP8ocg1qR3s2E3Cz1VR3w.jpg';">
+          
+<a href="intent://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd#Intent;package=com.mxtech.videoplayer.ad;S.userAgent=exo_player;S.title=Live%20Program;S.referer=;scheme=https;type=video/mp4;end">
+
+  <!-- แท็ก <img> ใช้สำหรับแสดงภาพโลโก้ของช่อง -->
+  <img 
+    class="channel" 
+    src="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" 
+        alt="" 
+    onerror="this.onerror=null; 
+             this.src='https://as2.ftcdn.net/jpg/03/53/54/91/1000_F_353549130_ahtWCQjjJzhzP8ocg1qR3s2E3Cz1VR3w.jpg';">
+          
+<a href="intent://love.pifipa2974.workers.dev/lx-origin/sd-expsci_720/chunks.m3u8#http://119.59.118.168/live/ch56/thailosonic2026/index.m3u8#Intent;package=com.mxtech.videoplayer.ad;S.userAgent=exo_player;S.title=Live%20Program;S.referer=;scheme=https;type=video/mp4;end">
+
+  <!-- แท็ก <img> ใช้สำหรับแสดงภาพโลโก้ของช่อง -->
+  <img 
+    class="channel" 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5yen2sI8GVV8RgeGUlhwl2Vg94sQiYSoAw3SQWTrSVZCW7y9IgNowNA&s=10" 
+        alt="" 
+    onerror="this.onerror=null; 
+             this.src='https://as2.ftcdn.net/jpg/03/53/54/91/1000_F_353549130_ahtWCQjjJzhzP8ocg1qR3s2E3Cz1VR3w.jpg';">
+          
+    <a href="intent://dl.dropbox.com/scl/fi/f6w8209nglwoqbc5ojhkh/server1-ducument-true-explore-sci.m3u8?rlkey=jx134ruo149spjk7qdatq9778&dl=1#http://119.59.118.168/live/ch56/thailosonic2026/index.m3u8#Intent;package=com.mxtech.videoplayer.ad;S.userAgent=exo_player;S.title=Live%20Program;S.referer=;scheme=https;type=video/mp4;end">
+
+  <!-- แท็ก <img> ใช้สำหรับแสดงภาพโลโก้ของช่อง -->
+  <img 
+    class="channel" 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5yen2sI8GVV8RgeGUlhwl2Vg94sQiYSoAw3SQWTrSVZCW7y9IgNowNA&s=10" 
+        alt="" 
+    onerror="this.onerror=null; 
+             this.src='https://as2.ftcdn.net/jpg/03/53/54/91/1000_F_353549130_ahtWCQjjJzhzP8ocg1qR3s2E3Cz1VR3w.jpg';">      
+          
+<a href="intent://119.59.118.168/live/ch57/irannahee/index.m3u8#Intent;package=com.mxtech.videoplayer.ad;S.userAgent=exo_player;S.title=Live%20Program;S.referer=;scheme=https;type=video/mp4;end">
+
+  <!-- แท็ก <img> ใช้สำหรับแสดงภาพโลโก้ของช่อง -->
+  <img 
+    class="channel" 
+    src="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" 
+     alt="" 
+    onerror="this.onerror=null; 
+             this.src='https://as2.ftcdn.net/jpg/03/53/54/91/1000_F_353549130_ahtWCQjjJzhzP8ocg1qR3s2E3Cz1VR3w.jpg';">
+    
+          
+<a href="intent://github.com/cattv976/documentary/raw/refs/heads/main/trueexplorelife.m3u8#Intent;package=com.mxtech.videoplayer.ad;S.userAgent=exo_player;S.title=Live%20Program;S.referer=;scheme=https;type=video/mp4;end">
+
+  <!-- แท็ก <img> ใช้สำหรับแสดงภาพโลโก้ของช่อง -->
+  <img 
+    class="channel" 
+    src="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" 
+    
+    
+    alt="" 
+    onerror="this.onerror=null; 
+             this.src='https://as2.ftcdn.net/jpg/03/53/54/91/1000_F_353549130_ahtWCQjjJzhzP8ocg1qR3s2E3Cz1VR3w.jpg';">
+    <!-- 
+        - class="channel": ตั้งค่าคลาส CSS สำหรับการจัดการสไตล์ของภาพ
+        - src="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png": ลิงก์ URL สำหรับแสดงโลโก้ของช่อง NBT
+        - alt="": กำหนดข้อความสำรอง (ปัจจุบันเว้นว่างไว้) หากไม่สามารถโหลดภาพได้
+        - onerror="...": ฟังก์ชัน JavaScript ที่จะถูกเรียกใช้เมื่อเกิดข้อผิดพลาดในการโหลดภาพ
+            - this.onerror=null: ยกเลิกการเรียกใช้ onerror ซ้ำหากเกิดข้อผิดพลาดอีกครั้ง
+            - this.src='...' : กำหนด URL สำรองเพื่อแสดงภาพอื่นแทน เมื่อไม่สามารถโหลดภาพต้นฉบับได้
+    -->
+</a>
+
+<!-- รายละเอียดภายใน href -->
+<!--
+1. intent://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/chunklist_w1579257356_b2128000.m3u8
+   - URL ของวิดีโอที่ต้องการเล่นผ่านแอปพลิเคชัน
+2. #Intent : กำหนดค่า Intent สำหรับเปิดโปรแกรมอื่น
+3. package=com.wiseplay : ระบุแอปพลิเคชัน Wiseplay ที่จะใช้เปิดลิงก์
+4. S.userAgent=exo_player : กำหนด User-Agent ที่ใช้ (ในที่นี้คือ exo_player)
+5. S.title=Live%20Program : ตั้งชื่อของวิดีโอว่า "Live Program" (เครื่องหมาย %20 แทนช่องว่าง)
+6. S.referer= : ไม่ได้ระบุ Referer
+7. scheme=https : ระบุโปรโตคอลที่ใช้ (ในกรณีนี้คือ HTTPS)
+8. type=video/mp4 : ระบุประเภทไฟล์เป็นวิดีโอ MP4
+9. end : ปิดการกำหนด Intent
+
+
+    รายละเอียดโค้ดส่วนที่ 3 ส่วนสุดท้าย
+
+        <!-- 
+    <script src="https://vjs.zencdn.net/7.20.3/video.min.js"></script>
+    -->
+    <!-- 
+    ส่วนนี้เป็นการนำเข้า (include) ไฟล์ JavaScript ของ Video.js 
+    - Video.js เป็นไลบรารีโอเพ่นซอร์สที่ช่วยในการสร้างและจัดการวิดีโอเพลเยอร์แบบมืออาชีพ
+    - ไฟล์ `video.min.js` เป็นไฟล์ JavaScript ที่ถูกบีบอัด (minified) เพื่อลดขนาด ทำให้โหลดได้เร็วขึ้น
+    - URL ที่ใช้งานนี้ชี้ไปยัง CDN (Content Delivery Network) ของ Video.js ซึ่งช่วยให้ไฟล์ถูกโหลดจากเซิร์ฟเวอร์ที่ใกล้ผู้ใช้งานมากที่สุด
+    - ฟังก์ชันของ Video.js รวมถึงการควบคุมวิดีโอ (เล่น/หยุด/กรอ) การเพิ่มซับไตเติ้ล และการทำงานร่วมกับรูปแบบวิดีโอหลากหลาย
+    -->
+
+    <script src="https://vjs.zencdn.net/7.20.3/video.min.js"></script>
+
+    <!-- 
+    <link href="https://vjs.zencdn.net/7.20.3/video-js.css" rel="stylesheet">
+    -->
+    <!-- 
+    ส่วนนี้เป็นการนำเข้า (include) ไฟล์ CSS ของ Video.js
+    - ไฟล์ `video-js.css` ใช้สำหรับกำหนดลักษณะ (styles) และรูปลักษณ์ของวิดีโอเพลเยอร์ เช่น ขนาดปุ่ม สีพื้นหลัง ฯลฯ
+    - การใช้ `rel="stylesheet"` ระบุว่าไฟล์นี้เป็นไฟล์สไตล์ชีตสำหรับการออกแบบ
+    - URL นี้ชี้ไปยัง CDN ของ Video.js เช่นเดียวกัน ซึ่งช่วยให้ไฟล์ CSS ถูกโหลดเร็วขึ้น
+    - ไฟล์นี้สำคัญมาก หากไม่เรียกใช้งาน เพลเยอร์อาจไม่แสดงผลได้อย่างถูกต้อง
+    -->
+
+    <link href="https://vjs.zencdn.net/7.20.3/video-js.css" rel="stylesheet">
+</body>
+</html>
+
+
