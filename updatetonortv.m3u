@@ -1,0 +1,491 @@
+#EXTM3U url="https://raw.githubusercontent.com/akin230/akin230/c3ca242ccbbb3b5e751d25b80e594aedb14c8d74/updatetonortv.m3u"
+#EXTINF:-1 tvg-id="NBT" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png" group-title="ช่องเอไอเอส", NBT 
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0001/DASH/B0001.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fae9ea96b93b15017ac0124b3f0f8323&chunkHttps=true&tmid=W0016&tpbk=5Ng1rwKbGaNk5pV8&rrt=1763738337&tmod=rfk&rsid=4337bd81-8bc7-4481-8581-28a09eedeaea&tuid=a24fa5fc48&cdn=redfox-https&tdid=84cf5af42a3234d9f2ec0d5270e30cee&origin=anevia&tfa=f0-fc&tttl=1763824734|referer=https://web-player.ais-vidnt.com/ 
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png" group-title="ช่องเอไอเอส", TPBS
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0014/DASH/B0014.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fae9ea96b93b15017ac0124b3f0f8323&chunkHttps=true&tmid=W0016&tpbk=5Ng1rwKbGaNk5pV8&rrt=1763738337&tmod=rfk&rsid=4337bd81-8bc7-4481-8581-28a09eedeaea&tuid=a24fa5fc48&cdn=redfox-https&tdid=84cf5af42a3234d9f2ec0d5270e30cee&origin=anevia&tfa=f0-fc&tttl=1763824734|referer=https://web-player.ais-vidnt.com/ 
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG" group-title="ช่องเอไอเอส", ALTV4
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0085/DASH/V0085.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fae9ea96b93b15017ac0124b3f0f8323&chunkHttps=true&tmid=W0016&tpbk=5Ng1rwKbGaNk5pV8&rrt=1763738337&tmod=rfk&rsid=4337bd81-8bc7-4481-8581-28a09eedeaea&tuid=a24fa5fc48&cdn=redfox-https&tdid=84cf5af42a3234d9f2ec0d5270e30cee&origin=anevia&tfa=f0-fc&tttl=1763824734|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png" group-title="ช่องเอไอเอส", CH5
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0007/DASH/B0007.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fae9ea96b93b15017ac0124b3f0f8323&chunkHttps=true&tmid=W0016&tpbk=5Ng1rwKbGaNk5pV8&rrt=1763738337&tmod=rfk&rsid=4337bd81-8bc7-4481-8581-28a09eedeaea&tuid=a24fa5fc48&cdn=redfox-https&tdid=84cf5af42a3234d9f2ec0d5270e30cee&origin=anevia&tfa=f0-fc&tttl=1763824734|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png" group-title="ช่องเอไอเอส", T-SPORTS
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0129/DASH/B0129.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fae9ea96b93b15017ac0124b3f0f8323&chunkHttps=true&tmid=W0016&tpbk=5Ng1rwKbGaNk5pV8&rrt=1763738337&tmod=rfk&rsid=4337bd81-8bc7-4481-8581-28a09eedeaea&tuid=a24fa5fc48&cdn=redfox-https&tdid=84cf5af42a3234d9f2ec0d5270e30cee&origin=anevia&tfa=f0-fc&tttl=1763824734|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png" group-title="ช่องเอไอเอส", Parliament
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0048/DASH/V0048.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fae9ea96b93b15017ac0124b3f0f8323&chunkHttps=true&tmid=W0016&tpbk=5Ng1rwKbGaNk5pV8&rrt=1763738337&tmod=rfk&rsid=4337bd81-8bc7-4481-8581-28a09eedeaea&tuid=a24fa5fc48&cdn=redfox-https&tdid=84cf5af42a3234d9f2ec0d5270e30cee&origin=anevia&tfa=f0-fc&tttl=1763824734|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png" group-title="ช่องเอไอเอส", TNN 16
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0053/DASH/V0053.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fae9ea96b93b15017ac0124b3f0f8323&chunkHttps=true&tmid=W0016&tpbk=5Ng1rwKbGaNk5pV8&rrt=1763738337&tmod=rfk&rsid=4337bd81-8bc7-4481-8581-28a09eedeaea&tuid=a24fa5fc48&cdn=redfox-https&tdid=84cf5af42a3234d9f2ec0d5270e30cee&origin=anevia&tfa=f0-fc&tttl=1763824734|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png" group-title="ช่องเอไอเอส", JKN 18
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0010/DASH/B0010.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fae9ea96b93b15017ac0124b3f0f8323&chunkHttps=true&tmid=W0016&tpbk=5Ng1rwKbGaNk5pV8&rrt=1763738337&tmod=rfk&rsid=4337bd81-8bc7-4481-8581-28a09eedeaea&tuid=a24fa5fc48&cdn=redfox-https&tdid=84cf5af42a3234d9f2ec0d5270e30cee&origin=anevia&tfa=f0-fc&tttl=1763824734|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png" group-title="ช่องเอไอเอส", Nation TV
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0021/DASH/B0021.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fae9ea96b93b15017ac0124b3f0f8323&chunkHttps=true&tmid=W0016&tpbk=5Ng1rwKbGaNk5pV8&rrt=1763738337&tmod=rfk&rsid=4337bd81-8bc7-4481-8581-28a09eedeaea&tuid=a24fa5fc48&cdn=redfox-https&tdid=84cf5af42a3234d9f2ec0d5270e30cee&origin=anevia&tfa=f0-fc&tttl=1763824734|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png" group-title="ช่องเอไอเอส", Workpoint TV
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0015/DASH/B0015.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fae9ea96b93b15017ac0124b3f0f8323&chunkHttps=true&tmid=W0016&tpbk=5Ng1rwKbGaNk5pV8&rrt=1763738337&tmod=rfk&rsid=4337bd81-8bc7-4481-8581-28a09eedeaea&tuid=a24fa5fc48&cdn=redfox-https&tdid=84cf5af42a3234d9f2ec0d5270e30cee&origin=anevia&tfa=f0-fc&tttl=1763824734|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="ช่องเอไอเอส", True 4 U
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0054/DASH/B0054.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fae9ea96b93b15017ac0124b3f0f8323&chunkHttps=true&tmid=W0016&tpbk=5Ng1rwKbGaNk5pV8&rrt=1763738337&tmod=rfk&rsid=4337bd81-8bc7-4481-8581-28a09eedeaea&tuid=a24fa5fc48&cdn=redfox-https&tdid=84cf5af42a3234d9f2ec0d5270e30cee&origin=anevia&tfa=f0-fc&tttl=1763824734|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" group-title="ช่องเอไอเอส", GMM25
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0019/DASH/B0019.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fae9ea96b93b15017ac0124b3f0f8323&chunkHttps=true&tmid=W0016&tpbk=5Ng1rwKbGaNk5pV8&rrt=1763738337&tmod=rfk&rsid=4337bd81-8bc7-4481-8581-28a09eedeaea&tuid=a24fa5fc48&cdn=redfox-https&tdid=84cf5af42a3234d9f2ec0d5270e30cee&origin=anevia&tfa=f0-fc&tttl=1763824734|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png" group-title="ช่องเอไอเอส", CH8
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0006/DASH/B0006.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fae9ea96b93b15017ac0124b3f0f8323&chunkHttps=true&tmid=W0016&tpbk=5Ng1rwKbGaNk5pV8&rrt=1763738337&tmod=rfk&rsid=4337bd81-8bc7-4481-8581-28a09eedeaea&tuid=a24fa5fc48&cdn=redfox-https&tdid=84cf5af42a3234d9f2ec0d5270e30cee&origin=anevia&tfa=f0-fc&tttl=1763824734|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" group-title="ช่องเอไอเอส", MONO29
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0016/DASH/B0016.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fae9ea96b93b15017ac0124b3f0f8323&chunkHttps=true&tmid=W0016&tpbk=5Ng1rwKbGaNk5pV8&rrt=1763738337&tmod=rfk&rsid=4337bd81-8bc7-4481-8581-28a09eedeaea&tuid=a24fa5fc48&cdn=redfox-https&tdid=84cf5af42a3234d9f2ec0d5270e30cee&origin=anevia&tfa=f0-fc&tttl=1763824734|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png" group-title="ช่องเอไอเอส", MCOT9
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0008/DASH/B0008.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fae9ea96b93b15017ac0124b3f0f8323&chunkHttps=true&tmid=W0016&tpbk=5Ng1rwKbGaNk5pV8&rrt=1763738337&tmod=rfk&rsid=4337bd81-8bc7-4481-8581-28a09eedeaea&tuid=a24fa5fc48&cdn=redfox-https&tdid=84cf5af42a3234d9f2ec0d5270e30cee&origin=anevia&tfa=f0-fc&tttl=1763824734|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" group-title="ช่องเอไอเอส", ONE 31
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0012/DASH/B0012.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fae9ea96b93b15017ac0124b3f0f8323&chunkHttps=true&tmid=W0016&tpbk=5Ng1rwKbGaNk5pV8&rrt=1763738337&tmod=rfk&rsid=4337bd81-8bc7-4481-8581-28a09eedeaea&tuid=a24fa5fc48&cdn=redfox-https&tdid=84cf5af42a3234d9f2ec0d5270e30cee&origin=anevia&tfa=f0-fc&tttl=1763824734|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" group-title="ช่องเอไอเอส", Thairath
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0013/DASH/B0013.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fae9ea96b93b15017ac0124b3f0f8323&chunkHttps=true&tmid=W0016&tpbk=5Ng1rwKbGaNk5pV8&rrt=1763738337&tmod=rfk&rsid=4337bd81-8bc7-4481-8581-28a09eedeaea&tuid=a24fa5fc48&cdn=redfox-https&tdid=84cf5af42a3234d9f2ec0d5270e30cee&origin=anevia&tfa=f0-fc&tttl=1763824734|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG" group-title="ช่องเอไอเอส", 3HD
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0003/DASH/B0003.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fae9ea96b93b15017ac0124b3f0f8323&chunkHttps=true&tmid=W0016&tpbk=5Ng1rwKbGaNk5pV8&rrt=1763738337&tmod=rfk&rsid=4337bd81-8bc7-4481-8581-28a09eedeaea&tuid=a24fa5fc48&cdn=redfox-https&tdid=84cf5af42a3234d9f2ec0d5270e30cee&origin=anevia&tfa=f0-fc&tttl=1763824734|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png" group-title="ช่องเอไอเอส", Amarin
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0017/DASH/B0017.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fae9ea96b93b15017ac0124b3f0f8323&chunkHttps=true&tmid=W0016&tpbk=5Ng1rwKbGaNk5pV8&rrt=1763738337&tmod=rfk&rsid=4337bd81-8bc7-4481-8581-28a09eedeaea&tuid=a24fa5fc48&cdn=redfox-https&tdid=84cf5af42a3234d9f2ec0d5270e30cee&origin=anevia&tfa=f0-fc&tttl=1763824734|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png" group-title="ช่องเอไอเอส", CH7
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0018/DASH/B0018.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fae9ea96b93b15017ac0124b3f0f8323&chunkHttps=true&tmid=W0016&tpbk=5Ng1rwKbGaNk5pV8&rrt=1763738337&tmod=rfk&rsid=4337bd81-8bc7-4481-8581-28a09eedeaea&tuid=a24fa5fc48&cdn=redfox-https&tdid=84cf5af42a3234d9f2ec0d5270e30cee&origin=anevia&tfa=f0-fc&tttl=1763824734|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/PPTV_2024e.jpg" group-title="ช่องเอไอเอส", PPTV
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0022/DASH/B0022.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fae9ea96b93b15017ac0124b3f0f8323&chunkHttps=true&tmid=W0016&tpbk=5Ng1rwKbGaNk5pV8&rrt=1763738337&tmod=rfk&rsid=4337bd81-8bc7-4481-8581-28a09eedeaea&tuid=a24fa5fc48&cdn=redfox-https&tdid=84cf5af42a3234d9f2ec0d5270e30cee&origin=anevia&tfa=f0-fc&tttl=1763824734|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png" group-title="ช่องเอไอเอส", Khong Dee Thailand
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0154/DASH/V0154.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fae9ea96b93b15017ac0124b3f0f8323&chunkHttps=true&tmid=W0016&tpbk=5Ng1rwKbGaNk5pV8&rrt=1763738337&tmod=rfk&rsid=4337bd81-8bc7-4481-8581-28a09eedeaea&tuid=a24fa5fc48&cdn=redfox-https&tdid=84cf5af42a3234d9f2ec0d5270e30cee&origin=anevia&tfa=f0-fc&tttl=1763824734|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png" group-title="ช่องเอไอเอส", Thainess
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0155/DASH/V0155.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fae9ea96b93b15017ac0124b3f0f8323&chunkHttps=true&tmid=W0016&tpbk=5Ng1rwKbGaNk5pV8&rrt=1763738337&tmod=rfk&rsid=4337bd81-8bc7-4481-8581-28a09eedeaea&tuid=a24fa5fc48&cdn=redfox-https&tdid=84cf5af42a3234d9f2ec0d5270e30cee&origin=anevia&tfa=f0-fc&tttl=1763824734|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" group-title="ช่องเอไอเอส", Discovery Asia
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7d2b3a2ee44d2d9e676f5ff1c09cc57:17d93e04b88ec01e67e3f07f68947164
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0181/DASH/V0181.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fae9ea96b93b15017ac0124b3f0f8323&chunkHttps=true&tmid=W0016&tpbk=5Ng1rwKbGaNk5pV8&rrt=1763738337&tmod=rfk&rsid=4337bd81-8bc7-4481-8581-28a09eedeaea&tuid=a24fa5fc48&cdn=redfox-https&tdid=84cf5af42a3234d9f2ec0d5270e30cee&origin=anevia&tfa=f0-fc&tttl=1763824734|referer=https://web-player.ais-vidnt.com/
+#EXTINF:-1 tvg-id="Samrujlok"  tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png" group-title="ช่องเอไอเอส", Samrujlok
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0151/DASH/V0151.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fae9ea96b93b15017ac0124b3f0f8323&chunkHttps=true&tmid=W0016&tpbk=5Ng1rwKbGaNk5pV8&rrt=1763738337&tmod=rfk&rsid=4337bd81-8bc7-4481-8581-28a09eedeaea&tuid=a24fa5fc48&cdn=redfox-https&tdid=84cf5af42a3234d9f2ec0d5270e30cee&origin=anevia&tfa=f0-fc&tttl=1763824734|referer=https://web-player.ais-vidnt.com/
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gQLyLmK/logo-seience.png" group-title="ช่องเอไอเอส",WSCI
+http://49.0.64.96:8007/WSCI
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMtB5NKS/logo-animal.png" group-title="ช่องเอไอเอส",Animal
+http://49.0.64.96:8007/Animal 
+
+
+
+#EXTINF:-0 group-title="ช่องเอไอเอส" tvg-id="DOCTrueExpLife.th" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Explorer Life
+http://119.59.118.159/live/ch58/xxccxgd134/index.m3u8
+
+
+#EXTINF:-0 group-title="ช่องเอไอเอส" tvg-id="DOCTrueExpLife.th" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Explorer Life
+http://github.com/BONDdata/m3u8/raw/refs/heads/main/trueexplorelife.m3u8
+
+#EXTINF:-0 group-title="ช่องเอไอเอส" tvg-id="DOCTrueExpSci.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp", True Explore Sci
+http://github.com/BONDdata/m3u8/raw/refs/heads/main/trueexploresci.m3u8
+
+#EXTINF:-0 group-title="ช่องเอไอเอส" tvg-id="DOCTrueExpSci.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp", True Explore Sci
+http://119.59.118.159/live/ch56/xxccxgd134/index.m3u8
+
+#EXTINF:-0 group-title="ช่องเอไอเอส" tvg-id="DOCTrueExpWild.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_original.png", True Explore Wild
+http://119.59.118.159/live/ch57/xxccxgd134/index.m3u8
+
+
+#EXTINF:-0 group-title="ช่องเอไอเอส" tvg-id="DOCTrueExpWild.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_original.png", True Explore Wild
+http://119.59.118.159/live/ch58/xxccxgd134/index.m3u8
+
+
+#EXTINF:-1  group-title="ช่องเอไอเอส" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuqopcRSIQJ_OIefz8Dj-a-Z2rPuEkXS1F7Q&s",Khongdee
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truexzyte.m3u8
+
+#EXTINF:-1  group-title="ช่องเอไอเอส" tvg-logo="https://dookeela2.live/uploads/1720380229.png",True Thaifilm 1
+http://119.59.118.159/live/ch54/xxccxgd134/index.m3u8
+
+ 
+#EXTINF:-1  group-title="ช่องเอไอเอส" tvg-logo="https://dookeela2.live/uploads/1719205705.png",FilmAsia
+http://119.59.118.159/live/ch61/xxccxgd134/index.m3u8
+
+
+#EXTINF:-1  group-title="ช่องเอไอเอส" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",Asian Hit
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truethaifilm.m3u8
+
+
+#EXTINF:-1  group-title="ช่องเอไอเอส" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/True_Asian_More.webp",Asiam More
+http://wandering-oldman.github.io/egaletv/movies-asian-hits.m3u8
+
+
+#EXTINF:-1  group-title="ช่องเอไอเอส" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",True movie hits
+http://119.59.118.159/live/ch59/xxccxgd134/index.m3u8
+
+
+#EXTINF:-1  group-title="ช่องเอไอเอส" tvg-logo="https://dookeela2.live/uploads/1703686191.png",HBO NEW
+https://wandering-oldman.github.io/egaletv/egaletv-hbo.m3u8
+
+#EXTINF:-1  group-title="ช่องเอไอเอส" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",True Series
+http://119.59.118.159/live/ch59/xxccxgd134/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png" group-title="ช่องเอไอเอส",สำรวจโลก
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+http://119.59.118.159/live/ch50/xxccxgd134/index.m3u8
+
+
+
+#EXTINF:-1 group-title="ช่องเอไอเอส" tvg-id="True AsianMore" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",True Asian More
+https://wandering-oldman.github.io/egaletv/movies-asian-hits.m3u8 
+
+#EXTINF:-1 group-title="ช่องเอไอเอส" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png",IZAAMOVIE
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/IZAA
+#EXTINF:-1 group-title="ช่องเอไอเอส" tvg-logo="https://i.ibb.co/MxZHkhvV/logo-universal.png",Universal
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/H-Channel
+#EXTINF:-1 group-title="ช่องเอไอเอส" tvg-logo="https://i.ibb.co/7xf3sR9Z/logo-pluse.png",Pluse Channel 
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/PLUSE
+#EXTINF:-1 group-title="ช่องเอไอเอส" tvg-logo="https://i.ibb.co/wFSYqgpG/logo-fuckseries.png",FuckIDSeries
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/SERIES
+#EXTINF:-1 group-title="ช่องเอไอเอส" tvg-logo="https://i.ibb.co/nqWvLRYF/logo-fuckmovie.png",FuckIDMovie
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/PING
+#EXTINF:-1 group-title="ช่องเอไอเอส" tvg-logo="https://i.ibb.co/zv40P0s/logo-amazing.png",AMAZING
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/AMAZING
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png" group-title="ช่องเอไอเอส1763738337
+
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/W0016/HLS/W0016.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=fae9ea96b93b15017ac0124b3f0f8323&chunkHttps=true&tmid=W0016&tpbk=5Ng1rwKbGaNk5pV8&rrt=1763738337&tmod=rfk&rsid=4337bd81-8bc7-4481-8581-28a09eedeaea&tuid=a24fa5fc48&cdn=redfox-https&tdid=84cf5af42a3234d9f2ec0d5270e30cee&origin=anevia&tfa=f0-fc&tttl=1763824734
+
+ 
+#EXTINF:-1 group-title="FreeTV" tvg-id="13" tvg-logo="",MOVIE HIT
+http://119.59.118.159/live/ch59/xxccxgd134/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png" group-title="FreeTV", MySci
+http://45.144.165.187:8080/live/xtreamvip/12345/10555.m3u8
+
+#EXTINF:-1 group-title="FreeTV" tvg-id="13" tvg-logo="https://dookeela2.live/uploads/1705536821.png",TRUE FILM2
+http://119.59.118.159/live/ch55/xxccxgd134/index.m3u8
+#EXTINF:-1 group-title="FreeTV" tvg-id="13" tvg-logo="",samrujlok
+http://119.59.118.159/live/ch50/xxccxgd134/index.m3u8
+
+#EXTINF:-1 tvg-id="ThairathTV32.th" group-title="FreeTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/2560px-Thairath_TV32.svg.png", Thairath TV 
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
+
+#EXTINF:-1 group-title="FreeTV" tvg-id="13" tvg-logo="",HBO
+https://raw.githubusercontent.com/cattviptv2605/movies/refs/heads/main/hbo.m3u8
+
+#EXTINF:-1 group-title="FreeTV" tvg-id="13" tvg-logo="https://dookeela2.live/uploads/1724167268.png",TRUE SCI
+http://119.59.118.159/live/ch56/xxccxgd134/index.m3u8
+
+https://raw.githubusercontent.com/cattviptv2605/documentary/refs/heads/main/trueexploresci.m3u8
+#EXTINF:-1 group-title="FreeTV" tvg-id="13" tvg-logo="",TRUE WILD
+
+http://stream8.jlntv.cn/ljtv/sd/live.m3u8
+#EXTINF:-1 group-title="FreeTV" tvg-id="13" tvg-logo="",TRUE LIFE
+
+http://stream8.jlntv.cn/ljtv/sd/live.m3u8
+#EXTINF:-1 group-title="FreeTV" tvg-id="13" tvg-logo="",MYSCI
+
+
+#EXTINF:-1 group-title="FreeTV" tvg-id="13" tvg-logo="",TRUE ASIAN MORE
+https://raw.githubusercontent.com/cattviptv2605/movies/refs/heads/main/asianhits.m3u8
+
+#EXTINF:-1 tvg-id="Channel3.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png", CH3 HD
+http://portal.geniptv.com:8080//live/dmtndmtnkimo/a7GPMeArdf/9375.m3u8
+
+#EXTINF:-1 tvg-id="Channel3.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png", CH3 HD 喔赋喔｀腑喔�1锟�7
+http://dream4ktv.net:80/play/live.php?mac=00:1A:79:50:d7:43&stream=1776006&extension=m3u8&play_token=zu4S61dBsH
+
+#EXTINF:-1 tvg-id="Channel3.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png", CH3 HD 喔赋喔｀腑喔�1锟�7
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776006&extension=m3u8
+
+#EXTINF:-1 tvg-id="ThaiTV5HD1.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png", CH5 HD
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ThaiTV5HD1.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png", CH5 HD 喔赋喔｀腑喔�1锟�7
+http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776008&extension=ts&play_token=zId1GtrCPh
+
+#EXTINF:-1 tvg-id="BBTVChannel7.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/8kMvzGt1/IMG-2393.png", CH7 HD
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
+
+#EXTINF:-1 tvg-id="BBTVChannel7.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/8kMvzGt1/IMG-2393.png", CH7 HD 喔赋喔｀腑喔�1锟�7
+https://ww.dooballfree.vip/live/ch7hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Channel8.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/8z5sMgBf/IMG-2395.png", Ch8 
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel8.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/8z5sMgBf/IMG-2395.png", Ch8 喔赋喔｀腑喔�1锟�7
+https://ww.dooballfree.vip/live/ch8hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MCOTHD.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/8cpTGLZf/IMG-2397.png", MCOT HD
+http://portal.geniptv.com:8080//live/dmtndmtnkimo/a7GPMeArdf/9365.m3u8
+
+#EXTINF:-1 tvg-id="MCOTHD.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/8cpTGLZf/IMG-2397.png", MCOT HD 喔赋喔｀腑喔�1锟�7
+https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBT2HD.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png", NBT2 HD
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBT.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/nLfbZvzV/IMG-2399.png", NBT 11 喔犩覆喔勦箑喔笝喔粪腑
+https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBT.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/xTN4CcBX/IMG-2401.png", NBT 11 喔犩覆喔勦腑喔掂釜喔侧笝
+https://cdn-edge.iiptvcdn.com/live_event/smil:98ff-027d-46aa-1a6a-8480.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBT.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/fTY1CVC6/IMG-2403.png", NBT 11 喔犩覆喔勦竵喔ム覆喔�1锟�7
+https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBT.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/5t2GfnJV/IMG-2405.png", NBT 11 喔犩覆喔勦箖喔曕箟
+https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mono29.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png", MONO29 (喔笝喔编竾喔炧覆喔佮涪喙屶箘喔椸涪)
+https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mono29.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png", MONO29 (喔笝喔编竾 Soundtrack 喔氞福喔｀涪喔侧涪喙勦笚喔�1锟�7)
+https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Amarin34HD.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Amarin_TV_HD_34_Logo.svg/2560px-Amarin_TV_HD_34_Logo.svg.png", Amarin TV
+https://ww.dooballfree.vip/live/amarintv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Amarin34HD.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Amarin_TV_HD_34_Logo.svg/2560px-Amarin_TV_HD_34_Logo.svg.png", Amarin TV 喔赋喔｀腑喔�1锟�7
+http://filex.me:8080//live/MAS101A/MAS101AABB/302693.m3u8
+
+#EXTINF:-1 tvg-id="ThairathTV32.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/2560px-Thairath_TV32.svg.png", Thairath TV 
+https://ww.dooballfree.vip/live/thairathtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ThairathTV32.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/2560px-Thairath_TV32.svg.png", Thairath TV 喔赋喔｀腑喔�1锟�7
+http://filex.me:8080//live/MAS101A/MAS101AABB/302732.ts
+
+#EXTINF:-1 tvg-id="ThaiPBS3.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png", Thai PBS
+https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ThaiPBS3.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png", Thai PBS 喔赋喔｀腑喔�1锟�7
+http://filex.me:8080//live/MAS101A/MAS101AABB/302730.m3u8
+
+#EXTINF:-1 tvg-id="Workpoint23.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/WzT9cJHK/IMG-2565.png", Workpoint TV
+https://global-media.sooplive.com/live/workpoint/master.m3u8
+
+#EXTINF:-1 tvg-id="PPTVHD36.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png", PPTV 
+https://ww.dooballfree.vip/live/pptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="One31.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png", ONE31
+https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
+
+#EXTINF:-1 tvg-id="GMM25.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/52/GMM_25_Logo_dai_truyen_hinh.png", GMM25
+https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
+
+#EXTINF:-1 tvg-id="TNN.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/Njsz7k39/IMG-1845.png", TNN 16
+http://grande99826.cdngold.me:80/play/live.php?mac=00:1A:79:81:9C:05&stream=494474&extension=ts&play_token=hqw1IrwPP0
+
+#EXTINF:-1 tvg-id="NationTV.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png", Nation TV
+http://portal.geniptv.com:8080//live/dmtndmtnkimo/a7GPMeArdf/8663.m3u8
+
+#EXTINF:-1 tvg-id="News1.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/CdyT1DN4/IMG-2411.png", News 1
+https://server1.streamssl.com/stream/news1.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/qMJ7ff5h/IMG-3145.png", Top News
+https://live.topnews.co.th/hls/topnews_a_720.m3u8
+
+#EXTINF:-1 tvg-id="JKN18.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/t70L1xG0/IMG-4003.png", JKN 18 
+http://portal.geniptv.com:8080//live/dmtndmtnkimo/a7GPMeArdf/9360.m3u8
+
+#EXTINF:-1 tvg-id="Zee.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/BbcqTvHT/IMG-2990.png", Zee Nung
+https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
+
+#EXTINF:-1 tvg-id="True4U.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/kGvp2ySq/IMG-2563.png", True 4U
+https://iptv36.vercel.app/api/true.m3u8?channel=true4u
+
+#EXTINF:-1 tvg-id="HBO.us" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/T3rk10H4/IMG-4188.png", HBO
+http://dream4ktv.net:80/play/live.php?mac=00:1A:79:50:d7:43&stream=1776086&extension=ts&play_token=AFIYZ63fAL
+
+#EXTINF:-1 tvg-id="TNT.us" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/RFGyFdqV/IMG-4186.png", HBO hits
+http://dream4ktv.net:80/play/live.php?mac=00:1A:79:50:d7:43&stream=1776088&extension=ts&play_token=wLRkQxvm2R
+
+#EXTINF:-1 tvg-id="TNT.us" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/x85f9LV3/IMG-4185.png", HBO Signature 
+http://dream4ktv.net:80/play/live.php?mac=00:1A:79:50:d7:43&stream=1776119&extension=ts&play_token=OhwsdS6V74
+
+#EXTINF:-1 tvg-id="TNT.us" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1024px-HBO_Family_Asia_logo.svg.png", HBO family
+http://dream4ktv.net:80/play/live.php?mac=00:1A:79:50:d7:43&stream=1776089&extension=ts&play_token=NCAyfA7OHT
+
+#EXTINF:-1 tvg-id="Cinemax.es" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/xqV1s6RK/IMG-4182.png", CINEMAX
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776056&extension=m3u8
+
+#EXTINF:-1 tvg-id="TNT.us" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/YqvYk5Qp/IMG-3305.png", Warner TV
+http://dream4ktv.net:80/play/live.php?mac=00:1A:79:50:d7:43&stream=1776044&extension=ts&play_token=Ntwvb0G1jw
+
+#EXTINF:-1 tvg-id="Rock.tw" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/ZKs9Kpcy/IMG-3038.png", Rock Action 
+http://dream4ktv.net:80/play/live.php?mac=00:1A:79:50:d7:43&stream=1776183&extension=ts&play_token=13eFzHcBZi
+
+#EXTINF:-1 tvg-id="TNT.us" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/ncS2GKGL/IMG-3304.png", Rock Entertainment
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776182&extension=m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/GtRYFgq8/IMG-2429.png", Chiangrai Channel 
+http://live.thaitvstream.com/play/chiangrai/index.m3u8
+
+#EXTINF:-1 tvg-id="CH8.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/RFVxDzJm/IMG-1839.png", Ch 8 Thailand 
+http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Fuck.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.ibb.co/nqWvLRYF/logo-fuckmovie.png", FuckIDMovie
+http://49.0.64.96:8007/PING
+
+#EXTINF:-1 tvg-id="Fuck.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/k5KBRQVj/IMG-3102.png", Universal
+http://49.0.64.96:8007/H-Channel
+
+#EXTINF:-1 tvg-id="Fuck.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png", IZAAMOVIE
+http://49.0.64.96:8007/IZAA
+
+#EXTINF:-1 tvg-id="Fuck.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/8C77gQvL/IMG-2955.png", TV Series 
+http://49.0.64.96:8007/SERIES
+
+#EXTINF:-1 tvg-id="Fuck.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/brt0yS2H/IMG-2953.png", Amazing Show
+http://49.0.64.96:8007/AMAZING
+
+#EXTINF:-1 tvg-id="Fuck.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/7LGkYBbv/IMG-2946.png", Cartoon
+http://49.0.64.96:8007/Cartoonumi
+
+#EXTINF:-1 tvg-id="CN.us" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/MZr3y7sp/IMG-2974.png", Cartoon Network 
+http://grande99826.cdngold.me:80/play/live.php?mac=00:1A:79:81:9C:05&stream=494491&extension=ts&play_token=M1VfbnbOQ8
+
+#EXTINF:-1 tvg-id="TN.us" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/0NMWJyk9/IMG-3451.webp", Nick Jr.
+https://23232.top/play/live.php?mac=A0:BB:3E:00:05:61&stream=387390&extension=m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/Wz7qzMTG/IMG-2061.png", BC Boomerang Cartoon 
+https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/zDCqL8v7/IMG-2635.png", Boom
+https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
+
+#EXTINF:-1 tvg-id="Discovery.es" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/NfSLw2KS/IMG-2162.png", Discovery 
+http://dream4ktv.net:80/play/live.php?mac=00:1A:79:50:d7:43&stream=1776024&extension=ts&play_token=jRig8qLIUA
+
+#EXTINF:-1 tvg-id="ThaiPBS4.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/c4pRMRr7/IMG-1847.png", ALTV 4
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Vipa.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/DZjt5L9v/IMG-2681.png", VIPA
+https://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/6075037809001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/LsTzr0jt/IMG-2585.png", 喔∴抚喔ム笂喔權笚喔掂抚喔�1锟�7
+https://live2.thaitvstream.com/play/mounchontv/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/BvDfBkPC/IMG-2615.png", Siam News TV
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/tTnpwpbY/IMG-3097.png", Thai News 
+https://live.thaitvstream.com/play/thainews/index.m3u8
+
+#EXTINF:-1 tvg-id="Fuck.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/5yFyB8yK/IMG-3100.png", World Science
+http://49.0.64.96:8007/WSCI
+
+#EXTINF:-1 tvg-id="Fuck.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/rFscPFcF/IMG-2948.png", World Animal
+http://49.0.64.96:8007/Animal
+
+#EXTINF:-1 tvg-id="Liverpool.uk" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/G2XJYybL/IMG-4172.png", Animal Show 
+http://dream4ktv.net:80/play/live.php?mac=00:1A:79:50:d7:43&stream=1775980&extension=ts&play_token=VdTyVpgNf5
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/kXJrqNvc/IMG-2530.png", MVGO Sports
+https://psiiptv-b.sky-cdn.com/ttd24-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Moo.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/s29B3qLD/IMG-3325.png", Hi Sport
+http://49.0.64.96:8007/HiSports
+
+#EXTINF:-1 tvg-id="TN.us" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/sxyZD7F8/IMG-3510.png", Hot Wave 
+https://atimehd.smartclick.co.th/hotwave/hls/hotwave.m3u8
+
+#EXTINF:-1 tvg-id="TN.us" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/g08JXjKP/IMG-3512.png", Green Wave 
+https://atimehd.smartclick.co.th/greenwave/hls/greenwave.m3u8
+
+#EXTINF:-1 tvg-id="TN.us" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/BvYhFZZM/IMG-3508.png", EFM 94
+https://atimevideo.smartclick.co.th/live/efmlive.sdp/chunklist_w696502376.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/3wMR6SDt/IMG-2515.png", 喔ム腹喔佮笚喔膏箞喔囙箑喔權箛喔曕箑喔о复喔｀箤喔�1锟�7
+http://vip.login.in.th:1935/looktungnetwork1/looktungnetwork1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/RCHf48T7/IMG-2558.png", 喔ム腹喔佮笚喔膏箞喔囙笚喔掂抚喔�1锟�7
+https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/pXJFnv8v/IMG-2534.png", 喙勦笚喔⑧箘喔娻箓喔�1锟�7
+https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/mrNtdYc0/IMG-1885.png", 喔氞箟喔侧笝喔氞箟喔侧笝喔椸傅喔о傅
+https://vdo.plathong.net/live8794/live8794/chunklist_.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/SNpVPq80/IMG-2710.png", MVTV 喔椸箟喔竾喔栢复喙堗笝喙勦笚喔�1锟�7
+https://lb1-live-mv.v2h-cdn.com/hls/ffff/mvtv75/mvtv75.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/v8z5TKKC/IMG-2593.png", 喔傅喔覆喔權笚喔掂抚喔�1锟�7
+https://psiiptv-b.sky-cdn.com/ttd20-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/vHFdNPh2/IMG-2579.png", Nat tv 
+https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/t4vQNs2p/IMG-1852.png", Cable 37 
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/C5vYBTHJ/IMG-1868.png", 13 Siam Thai 
+https://live.x2.co.th/live/13livetv-th.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/y8ZtfvK6/IMG-2509.png", 喔父喔о福喔｀笓喔犩腹喔∴复 
+https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/63sPMnRJ/IMG-1854.png", Cool Channel 
+https://live-iptv.cool-channel.com/cool/live-720P.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/FRpsQhRP/IMG-2711.png", TTD1
+https://psiiptv-b.sky-cdn.com/ttd01-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/gc5bLxfV/IMG-2712.png", TTD2
+https://psiiptv-b.sky-cdn.com/ttd02-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/mr5W3hPW/IMG-2713.png", TTD3
+https://psiiptv-b.sky-cdn.com/ttd03-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/Xvd8hhmY/IMG-2548.png", TTD4 (喔笝喔编竾喔炧覆喔佮涪喙屶腑喔掂釜喔侧笝)
+https://psiiptv-b.sky-cdn.com/ttd04-Playlist/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/NFfkK0MK/IMG-2550.png", TTD5
+https://psiiptv-b.sky-cdn.com/ttd05-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/W1YHCCTM/IMG-2714.png", TTD6
+https://psiiptv-b.sky-cdn.com/ttd06-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/Dz5SXfRG/IMG-2415.png", TTD7
+https://psiiptv-b.sky-cdn.com/ttd07-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="馃嚬馃嚟 THAILAND" tvg-logo="https://i.postimg.cc/Cx5hQC2R/IMG-2418.png", TTD8
+https://psiiptv
